@@ -6,7 +6,7 @@ This repository contains the code for our paper `LMPT: Prompt Tuning with Class-
 
 LMPT explores the feasibility of prompting with text data for long-tailed multi-label visual recognition. we propose a unified framework for LTML, namely prompt tuning with class-specific embedding loss (LMPT), capturing the semantic feature interactions between categories by combining text and image modality data and improving the performance synchronously on both head and tail classes. Specifically, LMPT introduces the embedding loss function with class-aware soft margin and re-weighting to learn class-specific contexts with the benefit of textual descriptions (captions), which could help establish semantic relation ships between classes, especially between the head and tail classes. Notable improvements are observed compared to several visual, zero-shot and prompt tuning methods on two long-tailed multi-label benchmarks. For more details please see the paper.
 
-Created by [Peng Xia](https://peng-xia.site/), [Di Xu](), [Lie Ju](https://mmai.group/peoples/julie/), [‪Ming Hu‬‬](https://scholar.google.com/citations?user=9QWdvl8AAAAJ&hl=zh-CN&oi=sra), [Jun Chen](https://junchen14.github.io/) and [Zongyuan Ge](https://zongyuange.github.io/).
+Created by [Peng Xia](https://peng-xia.site/), [Di Xu](), [Lie Ju](https://mmai.group/peoples/julie/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Jun Chen](https://junchen14.github.io/) and [Zongyuan Ge](https://zongyuange.github.io/).
 
 ![alt text](./framework.png)
 
@@ -152,7 +152,7 @@ We use code from [CoOp](https://github.com/KaiyangZhou/CoOp) and [CLIP](https://
 
 ## Contact
 
-If you have any questions, please create an issue on this repository or contact at [richard.peng.xia@gmail.com](mailto:richard.peng.xia@gmail.com).
+If you have any questions, please create an issue on this repository or contact at [richard.peng.xia@gmail.com](mailto:richard.peng.xia@gmail.com) or [julie334600@gmail.com](mailto:julie334600@gmail.com).
 
 ## Citing
 
