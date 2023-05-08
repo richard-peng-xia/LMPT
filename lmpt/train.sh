@@ -1,0 +1,17 @@
+CUDA_VISIBLE_DEVICES=0 python train.py \
+--dataset 'coco-lt' \
+--pretrain_clip 'ViT16' \
+--batch_size 64 \
+--epochs 50 \
+--class_token_position 'end' \
+--ctx_init '' \
+--n_ctx 16 \
+--m_ctx 2 \
+--training_method 'lmpt' \
+--lr 5e-4 \
+--loss_function dbl \
+--cseloss softmargin \
+--optimizer sgd \
+--neg_scale 2.0 \
+--gamma 0.2 \
+--lam 0.5

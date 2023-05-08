@@ -1,0 +1,1142 @@
+VOCdevkit/VOC2012/JPEGImages/2008_000023.jpg a bottle of beer and a candle on a table with pizza and a television.
+VOCdevkit/VOC2012/JPEGImages/2008_000028.jpg two cars driving down a city street with buildings.
+VOCdevkit/VOC2012/JPEGImages/2008_000043.jpg a dining room with a table and chairs and a clock.
+VOCdevkit/VOC2012/JPEGImages/2008_000052.jpg a car driving around orange cones on a dirt road.
+VOCdevkit/VOC2012/JPEGImages/2010_002361.jpg a black car with its hood open in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2010_002370.jpg a group of metal tables and chairs on a patio.
+VOCdevkit/VOC2012/JPEGImages/2010_002373.jpg two women sitting at a table with plates of food.
+VOCdevkit/VOC2012/JPEGImages/2010_002383.jpg a chair sitting in front of a brick wall.
+VOCdevkit/VOC2012/JPEGImages/2008_000107.jpg a chair with a pile of clothes on top of it.
+VOCdevkit/VOC2012/JPEGImages/2010_002405.jpg a woman laying next to a towel shaped like an animal.
+VOCdevkit/VOC2012/JPEGImages/2008_000149.jpg a living room with a couch and a chair.
+VOCdevkit/VOC2012/JPEGImages/2010_002440.jpg three girls drinking soda from straws in a bar.
+VOCdevkit/VOC2012/JPEGImages/2010_002455.jpg a blue water bottle sitting on top of a table.
+VOCdevkit/VOC2012/JPEGImages/2008_000187.jpg a white race car driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_000189.jpg a yellow car driving on a race track.
+VOCdevkit/VOC2012/JPEGImages/2008_000191.jpg a person sitting on a bike at a train station.
+VOCdevkit/VOC2012/JPEGImages/2008_000199.jpg a man walking down a sidewalk next to a barricade.
+VOCdevkit/VOC2012/JPEGImages/2008_000246.jpg a man sitting next to a baby in a stroller.
+VOCdevkit/VOC2012/JPEGImages/2008_000259.jpg a group of people on a stage playing music.
+VOCdevkit/VOC2012/JPEGImages/2008_000260.jpg a man standing in front of three military vehicles.
+VOCdevkit/VOC2012/JPEGImages/2008_000281.jpg a building on a street in the snow.
+VOCdevkit/VOC2012/JPEGImages/2008_000283.jpg a young child holding a cell phone and a toy.
+VOCdevkit/VOC2012/JPEGImages/2010_002575.jpg a yellow and pink chair sitting in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_002578.jpg a yellow car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2008_000297.jpg two women sitting in a kitchen talking to each other.
+VOCdevkit/VOC2012/JPEGImages/2008_000298.jpg a man is sitting on a snowmobile in the snow.
+VOCdevkit/VOC2012/JPEGImages/2008_000304.jpg a white van parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2010_002598.jpg a black car parked on the side of the street.
+VOCdevkit/VOC2012/JPEGImages/2008_000313.jpg a little girl playing with her toys on the floor.
+VOCdevkit/VOC2012/JPEGImages/2010_002603.jpg a woman in a kimono standing in a classroom.
+VOCdevkit/VOC2012/JPEGImages/2010_002605.jpg a wooden chair sitting at a table in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_002623.jpg a baby holding a toy and smiling at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_000340.jpg a man with long hair singing into a microphone.
+VOCdevkit/VOC2012/JPEGImages/2008_000343.jpg a man standing next to a green and yellow train.
+VOCdevkit/VOC2012/JPEGImages/2008_000346.jpg a man standing next to a yellow sports car.
+VOCdevkit/VOC2012/JPEGImages/2010_002642.jpg a man sitting in a chair holding a cell phone.
+VOCdevkit/VOC2012/JPEGImages/2008_000356.jpg an old blue car driving on a bridge with mountains in the background.
+VOCdevkit/VOC2012/JPEGImages/2008_000391.jpg a group of potted plants sitting against a wall.
+VOCdevkit/VOC2012/JPEGImages/2008_000397.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2010_002686.jpg a living room with a television and two chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_000413.jpg a woman wearing a blue shirt and smiling at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_000418.jpg a woman standing in a living room next to a table.
+VOCdevkit/VOC2012/JPEGImages/2008_000424.jpg a little girl wearing pink glasses pointing at the camera.
+VOCdevkit/VOC2012/JPEGImages/2010_002714.jpg a little girl sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2008_000445.jpg a baby sitting in a toy bouncy chair.
+VOCdevkit/VOC2012/JPEGImages/2008_000447.jpg a woman sitting on a couch holding a baby.
+VOCdevkit/VOC2012/JPEGImages/2010_002737.jpg a woman feeding two sheep in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_000455.jpg a woman with curly hair is smiling at the camera.
+VOCdevkit/VOC2012/JPEGImages/2010_002752.jpg a car parked next to a fence and a bird.
+VOCdevkit/VOC2012/JPEGImages/2010_002763.jpg a black and white photo of a woman milking a cow.
+VOCdevkit/VOC2012/JPEGImages/2008_000475.jpg a bride and groom standing next to a man and a woman.
+VOCdevkit/VOC2012/JPEGImages/2010_002783.jpg two men riding in a small red car.
+VOCdevkit/VOC2012/JPEGImages/2008_000499.jpg a woman is riding a horse in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_000501.jpg a car parked in front of a body of water.
+VOCdevkit/VOC2012/JPEGImages/2008_000514.jpg two men standing next to each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_002830.jpg a potted plant sitting on a wooden table.
+VOCdevkit/VOC2012/JPEGImages/2010_002841.jpg an old white car with its doors open in the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_000588.jpg a little girl feeding a baby in a high chair.
+VOCdevkit/VOC2012/JPEGImages/2008_000595.jpg a black car parked in front of a pink building.
+VOCdevkit/VOC2012/JPEGImages/2008_000599.jpg a man playing with two boys on a playground.
+VOCdevkit/VOC2012/JPEGImages/2008_000605.jpg a man wearing a blue shirt and a tie.
+VOCdevkit/VOC2012/JPEGImages/2010_002877.jpg a group of people sitting at a table outside.
+VOCdevkit/VOC2012/JPEGImages/2008_000609.jpg a man holding a snowboard on a snow covered slope.
+VOCdevkit/VOC2012/JPEGImages/2008_000613.jpg a couple of race cars parked next to each other.
+VOCdevkit/VOC2012/JPEGImages/2010_002880.jpg a man and a baby sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2010_002881.jpg a man sitting in a chair with a dog on the ground.
+VOCdevkit/VOC2012/JPEGImages/2008_000626.jpg a living room with a window and a chair.
+VOCdevkit/VOC2012/JPEGImages/2010_002902.jpg a man standing next to a car in a garage.
+VOCdevkit/VOC2012/JPEGImages/2008_000634.jpg a man standing on the beach on a cell phone.
+VOCdevkit/VOC2012/JPEGImages/2008_000655.jpg a man holding a baby sleeping on his lap.
+VOCdevkit/VOC2012/JPEGImages/2010_002929.jpg a group of men standing around an old blue truck.
+VOCdevkit/VOC2012/JPEGImages/2010_002948.jpg a horse with a saddle standing next to a truck.
+VOCdevkit/VOC2012/JPEGImages/2010_002958.jpg two white chairs and a table in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_000695.jpg a man is standing in a field with rocks.
+VOCdevkit/VOC2012/JPEGImages/2008_000719.jpg a man wearing a yellow safety vest standing on a street.
+VOCdevkit/VOC2012/JPEGImages/2008_000723.jpg a man and a woman posing for a picture in a field.
+VOCdevkit/VOC2012/JPEGImages/2010_003014.jpg a group of people sitting and standing in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_000732.jpg a woman holding a baby in her lap.
+VOCdevkit/VOC2012/JPEGImages/2008_000737.jpg a baby sitting on a couch holding a toy.
+VOCdevkit/VOC2012/JPEGImages/2010_003034.jpg a group of young girls posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2010_003040.jpg a black and white photo of people getting on a bus.
+VOCdevkit/VOC2012/JPEGImages/2008_000769.jpg a person is working on a white helmet.
+VOCdevkit/VOC2012/JPEGImages/2008_000776.jpg a little girl sitting in a shopping cart in a supermarket.
+VOCdevkit/VOC2012/JPEGImages/2010_003072.jpg a woman is swimming in a river with a dog.
+VOCdevkit/VOC2012/JPEGImages/2008_000796.jpg a man wearing a jacket is looking to his left.
+VOCdevkit/VOC2012/JPEGImages/2010_003084.jpg a man sitting at a table with his arms crossed.
+VOCdevkit/VOC2012/JPEGImages/2008_000828.jpg a young girl sitting in the drivers seat of a car.
+VOCdevkit/VOC2012/JPEGImages/2008_000829.jpg a couple of people and a girl holding a dog.
+VOCdevkit/VOC2012/JPEGImages/2008_000841.jpg a woman giving a boy a kiss on the cheek.
+VOCdevkit/VOC2012/JPEGImages/2008_000847.jpg a woman holding a gray cat on her shoulder.
+VOCdevkit/VOC2012/JPEGImages/2008_000863.jpg a black and white dog playing with a frisbee in the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_000867.jpg a building with people standing in front of it.
+VOCdevkit/VOC2012/JPEGImages/2010_003154.jpg a dining room with a table and chairs and a ceiling fan.
+VOCdevkit/VOC2012/JPEGImages/2008_000881.jpg a group of people dressed in nativity costumes.
+VOCdevkit/VOC2012/JPEGImages/2010_003170.jpg a chair sitting in front of a large window.
+VOCdevkit/VOC2012/JPEGImages/2010_003185.jpg a baby crying while sitting on a toilet.
+VOCdevkit/VOC2012/JPEGImages/2008_000910.jpg a man and woman posing for a picture in a park.
+VOCdevkit/VOC2012/JPEGImages/2008_000914.jpg a wooden chair with a black cushion in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_000922.jpg a woman sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_000936.jpg a baby sitting in a high chair eating a toy.
+VOCdevkit/VOC2012/JPEGImages/2010_003220.jpg a man in a suit and green tie standing next to a statue.
+VOCdevkit/VOC2012/JPEGImages/2008_000952.jpg a group of cars parked in a parking garage.
+VOCdevkit/VOC2012/JPEGImages/2008_000959.jpg a red convertible car is parked in a driveway.
+VOCdevkit/VOC2012/JPEGImages/2010_003241.jpg two women posing for a picture in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_003248.jpg two women sitting at a table in the snow.
+VOCdevkit/VOC2012/JPEGImages/2008_000970.jpg a group of people sitting on a bench.
+VOCdevkit/VOC2012/JPEGImages/2008_000972.jpg a baby sitting on a couch looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2010_003250.jpg a young girl is holding a certificate of recognition.
+VOCdevkit/VOC2012/JPEGImages/2008_000976.jpg three women standing next to each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_000979.jpg an orange sports car with its doors open.
+VOCdevkit/VOC2012/JPEGImages/2008_000985.jpg a man and a woman standing next to each other.
+VOCdevkit/VOC2012/JPEGImages/2010_003263.jpg a person setting a table in a hotel room.
+VOCdevkit/VOC2012/JPEGImages/2008_001026.jpg a black and white photo of a woman smiling.
+VOCdevkit/VOC2012/JPEGImages/2008_001034.jpg a group of women and a child sitting in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_001035.jpg a woman and a child with a stroller in front of a house.
+VOCdevkit/VOC2012/JPEGImages/2008_001039.jpg a group of people walking down a dirt road with a truck.
+VOCdevkit/VOC2012/JPEGImages/2010_003325.jpg a little girl sitting in a chair at a table.
+VOCdevkit/VOC2012/JPEGImages/2010_003332.jpg a group of people sitting on a bus.
+VOCdevkit/VOC2012/JPEGImages/2008_001066.jpg a police officer standing in a gazebo talking on the phone.
+VOCdevkit/VOC2012/JPEGImages/2008_001075.jpg a woman with black hair looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_001076.jpg a little girl sitting in a toy fire truck.
+VOCdevkit/VOC2012/JPEGImages/2008_001077.jpg a wooden table with plates and wine glasses and a candle on it.
+VOCdevkit/VOC2012/JPEGImages/2008_001080.jpg people walking through a park in the city.
+VOCdevkit/VOC2012/JPEGImages/2008_001078.jpg a black and white cat standing in a living room.
+VOCdevkit/VOC2012/JPEGImages/2010_003366.jpg a dog on a leash walking on the street.
+VOCdevkit/VOC2012/JPEGImages/2008_001090.jpg two people sitting on a sail boat in the water.
+VOCdevkit/VOC2012/JPEGImages/2010_003367.jpg a blue bike chained to a bike rack on the street.
+VOCdevkit/VOC2012/JPEGImages/2010_003374.jpg a group of people sitting around a table with food.
+VOCdevkit/VOC2012/JPEGImages/2008_001113.jpg two young boys standing next to each other.
+VOCdevkit/VOC2012/JPEGImages/2008_001115.jpg two chefs standing in a kitchen preparing food.
+VOCdevkit/VOC2012/JPEGImages/2010_003398.jpg a wooden chair sitting next to a window.
+VOCdevkit/VOC2012/JPEGImages/2010_003409.jpg a group of people in a room in the dark.
+VOCdevkit/VOC2012/JPEGImages/2008_001155.jpg a kitchen with a table and a sink and a window.
+VOCdevkit/VOC2012/JPEGImages/2010_003446.jpg a man riding a small bike in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_001183.jpg two girls are posing for a picture with their fingers in their mouths.
+VOCdevkit/VOC2012/JPEGImages/2008_001188.jpg a man is standing in front of a microphone.
+VOCdevkit/VOC2012/JPEGImages/2008_001189.jpg a man is sitting in front of a keyboard.
+VOCdevkit/VOC2012/JPEGImages/2008_001196.jpg two children standing next to a van in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_001199.jpg a group of men standing in a kitchen laughing.
+VOCdevkit/VOC2012/JPEGImages/2008_001202.jpg a family sitting on the back of a boat with a cross.
+VOCdevkit/VOC2012/JPEGImages/2008_001219.jpg a woman wearing jeans and a white shirt with her hand in her pocket.
+VOCdevkit/VOC2012/JPEGImages/2008_001230.jpg a man and woman sitting at a table with a candle.
+VOCdevkit/VOC2012/JPEGImages/2010_003520.jpg a room with blue doors and a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2010_003526.jpg a man holding an eagle on his hand.
+VOCdevkit/VOC2012/JPEGImages/2008_001241.jpg a man playing a guitar and singing into a microphone.
+VOCdevkit/VOC2012/JPEGImages/2008_001248.jpg a woman playing with a dog in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_001257.jpg a small child is standing in the snow.
+VOCdevkit/VOC2012/JPEGImages/2010_003538.jpg two women sitting in chairs holding a bottle of wine.
+VOCdevkit/VOC2012/JPEGImages/2010_003540.jpg a group of people sitting at a conference table.
+VOCdevkit/VOC2012/JPEGImages/2008_001284.jpg a woman with two children sitting on a bench.
+VOCdevkit/VOC2012/JPEGImages/2010_003560.jpg a man with a small dog on his back.
+VOCdevkit/VOC2012/JPEGImages/2010_003563.jpg a young boy sitting on a wooden chair.
+VOCdevkit/VOC2012/JPEGImages/2010_003574.jpg a blue car parked on the side of the road at night.
+VOCdevkit/VOC2012/JPEGImages/2008_001314.jpg two children standing on a dirt road next to a tree.
+VOCdevkit/VOC2012/JPEGImages/2008_001318.jpg a woman in a black shirt looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_001338.jpg two men standing next to each other next to a truck.
+VOCdevkit/VOC2012/JPEGImages/2010_003618.jpg a woman standing in front of a wooden wall.
+VOCdevkit/VOC2012/JPEGImages/2010_003632.jpg three women posing for a picture with a pregnant woman.
+VOCdevkit/VOC2012/JPEGImages/2008_001376.jpg a man riding a bike down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_001404.jpg a man riding a bike down a road with a helmet on.
+VOCdevkit/VOC2012/JPEGImages/2008_001405.jpg a bottle of soda sitting in a train station.
+VOCdevkit/VOC2012/JPEGImages/2010_003677.jpg a baby is sitting in a high chair.
+VOCdevkit/VOC2012/JPEGImages/2008_001439.jpg four wooden chairs sitting in front of a table.
+VOCdevkit/VOC2012/JPEGImages/2008_001451.jpg a group of people standing in a living room.
+VOCdevkit/VOC2012/JPEGImages/2010_003730.jpg a small red car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2008_001446.jpg a black car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2008_001486.jpg a woman holding a cereal box and a bottle of milk.
+VOCdevkit/VOC2012/JPEGImages/2008_001493.jpg four women in black dresses posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2008_001504.jpg a woman is standing next to a tree.
+VOCdevkit/VOC2012/JPEGImages/2008_001516.jpg a sail boat on the water with people on it.
+VOCdevkit/VOC2012/JPEGImages/2010_003813.jpg a red car parked on the side of the street.
+VOCdevkit/VOC2012/JPEGImages/2008_001543.jpg a car parked in a parking lot next to a truck.
+VOCdevkit/VOC2012/JPEGImages/2008_001553.jpg a man with a video camera in a building.
+VOCdevkit/VOC2012/JPEGImages/2008_001563.jpg a boy and a girl sitting in folding chairs.
+VOCdevkit/VOC2012/JPEGImages/2010_003859.jpg a man and a woman standing in the water with a dalmatian dog.
+VOCdevkit/VOC2012/JPEGImages/2010_003861.jpg a man sleeping on a couch in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_001591.jpg a group of people sitting around a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2010_003864.jpg a living room with two couches and a television.
+VOCdevkit/VOC2012/JPEGImages/2008_001596.jpg a woman is sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2010_003877.jpg a small green car driving down a narrow street.
+VOCdevkit/VOC2012/JPEGImages/2008_001607.jpg a man and a woman bending over with tennis rackets.
+VOCdevkit/VOC2012/JPEGImages/2008_001609.jpg three women sitting on a bus with a blue towel.
+VOCdevkit/VOC2012/JPEGImages/2010_003897.jpg a toy giraffe standing next to a pan of food.
+VOCdevkit/VOC2012/JPEGImages/2010_003900.jpg an old steam engine train on a track in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_001638.jpg a group of people playing music on a stage.
+VOCdevkit/VOC2012/JPEGImages/2008_001673.jpg a woman with a bird on her shoulder in a kitchen.
+VOCdevkit/VOC2012/JPEGImages/2010_003957.jpg a baby is sitting under a wooden chair.
+VOCdevkit/VOC2012/JPEGImages/2008_001680.jpg a group of women posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2008_001690.jpg two men are riding miniature motorcycles on the street.
+VOCdevkit/VOC2012/JPEGImages/2010_003981.jpg a blue car is parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_001702.jpg a young boy is playing with a pillow on a chair.
+VOCdevkit/VOC2012/JPEGImages/2008_001706.jpg a man standing in a yurt holding a plate.
+VOCdevkit/VOC2012/JPEGImages/2010_003996.jpg a young boy feeding two sheep from a bottle.
+VOCdevkit/VOC2012/JPEGImages/2010_004005.jpg two red cars parked next to each other in the snow.
+VOCdevkit/VOC2012/JPEGImages/2008_001737.jpg two women sitting in lawn chairs talking and laughing.
+VOCdevkit/VOC2012/JPEGImages/2008_001761.jpg a person in a plaid skirt standing on a stage.
+VOCdevkit/VOC2012/JPEGImages/2008_001773.jpg a group of people sitting around a table playing a game.
+VOCdevkit/VOC2012/JPEGImages/2008_001784.jpg a bride and groom with their wedding party in a church.
+VOCdevkit/VOC2012/JPEGImages/2008_001796.jpg a young boy sitting on an airplane reading a book.
+VOCdevkit/VOC2012/JPEGImages/2008_001805.jpg a propeller plane sitting on the tarmac at an airport.
+VOCdevkit/VOC2012/JPEGImages/2008_001809.jpg a dining room with a table and chairs and a painting.
+VOCdevkit/VOC2012/JPEGImages/2008_001832.jpg a young boy is holding the steering wheel of a car.
+VOCdevkit/VOC2012/JPEGImages/2008_001837.jpg a group of people sitting and standing around a table.
+VOCdevkit/VOC2012/JPEGImages/2008_001838.jpg a man sitting on a couch giving two thumbs up.
+VOCdevkit/VOC2012/JPEGImages/2010_004130.jpg two people are hugging each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_001867.jpg a pink bus and a pink car on a street.
+VOCdevkit/VOC2012/JPEGImages/2010_004160.jpg two horses walking down a street with people on them.
+VOCdevkit/VOC2012/JPEGImages/2010_004165.jpg a woman in a red jacket holding a white dog.
+VOCdevkit/VOC2012/JPEGImages/2008_001881.jpg two women sitting next to each other holding a cup.
+VOCdevkit/VOC2012/JPEGImages/2010_004173.jpg a red chair sitting next to a painting on a wall.
+VOCdevkit/VOC2012/JPEGImages/2008_001888.jpg a woman sitting at a desk with a computer.
+VOCdevkit/VOC2012/JPEGImages/2008_001911.jpg a group of people standing around an indoor curling rink.
+VOCdevkit/VOC2012/JPEGImages/2008_001910.jpg a man stirring a pan of food on a table.
+VOCdevkit/VOC2012/JPEGImages/2010_004210.jpg two cows laying in the sand on a beach.
+VOCdevkit/VOC2012/JPEGImages/2008_001937.jpg a woman sitting in a chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_004223.jpg a young girl is sitting on a chair and smiling.
+VOCdevkit/VOC2012/JPEGImages/2008_001955.jpg a person wearing a knit hat on their head.
+VOCdevkit/VOC2012/JPEGImages/2010_004229.jpg a dining room with a table and a refrigerator.
+VOCdevkit/VOC2012/JPEGImages/2008_001958.jpg two men are smiling and one is holding a box.
+VOCdevkit/VOC2012/JPEGImages/2008_001980.jpg a young boy holding a white cat in a blue shirt.
+VOCdevkit/VOC2012/JPEGImages/2008_001998.jpg a man and a woman sitting on the ground.
+VOCdevkit/VOC2012/JPEGImages/2010_004278.jpg a wooden table and two chairs with blue cushions.
+VOCdevkit/VOC2012/JPEGImages/2008_002007.jpg a man cooking food in a frying pan in a kitchen.
+VOCdevkit/VOC2012/JPEGImages/2010_004306.jpg a cat is looking at a television screen in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_002035.jpg a young man is working on a car engine.
+VOCdevkit/VOC2012/JPEGImages/2008_002036.jpg a woman running on a beach with a dog.
+VOCdevkit/VOC2012/JPEGImages/2008_002039.jpg two women standing on steps near a moss covered waterfall.
+VOCdevkit/VOC2012/JPEGImages/2008_002046.jpg a close up of the front of a cruise ship.
+VOCdevkit/VOC2012/JPEGImages/2008_002061.jpg a man is shearing a sheep in a field.
+VOCdevkit/VOC2012/JPEGImages/2010_004337.jpg a woman riding a bike down a street.
+VOCdevkit/VOC2012/JPEGImages/2010_004341.jpg two women posing for a picture in a kitchen.
+VOCdevkit/VOC2012/JPEGImages/2008_002067.jpg a man and woman sitting on a couch holding a kitten.
+VOCdevkit/VOC2012/JPEGImages/2008_002071.jpg a wooden table and chairs sitting on a patio.
+VOCdevkit/VOC2012/JPEGImages/2010_004349.jpg a row of cars parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_002092.jpg a group of people sitting in a living room.
+VOCdevkit/VOC2012/JPEGImages/2010_004360.jpg a person eating a plate of food with a fork.
+VOCdevkit/VOC2012/JPEGImages/2010_004361.jpg a woman sitting at a table in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_004363.jpg a black and white horse grazing on the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_002113.jpg a police officer sitting on top of a machine.
+VOCdevkit/VOC2012/JPEGImages/2008_002114.jpg a group of people sitting around a table.
+VOCdevkit/VOC2012/JPEGImages/2008_002119.jpg a living room with a red couch and a table.
+VOCdevkit/VOC2012/JPEGImages/2008_002123.jpg a group of people standing next to their motorcycles.
+VOCdevkit/VOC2012/JPEGImages/2008_002132.jpg a group of women sitting on a bench in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2010_004400.jpg a young boy is wearing a hoodie and smiling.
+VOCdevkit/VOC2012/JPEGImages/2008_002156.jpg a young boy wearing a diving helmet and goggles.
+VOCdevkit/VOC2012/JPEGImages/2010_004441.jpg a woman standing in a kitchen stirring a pot.
+VOCdevkit/VOC2012/JPEGImages/2008_002175.jpg a dining room with a table and chairs and pictures on the wall.
+VOCdevkit/VOC2012/JPEGImages/2008_002181.jpg a group of people posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2008_002193.jpg a train is crossing a street behind a fence.
+VOCdevkit/VOC2012/JPEGImages/2010_004467.jpg a cat sitting inside of a bag on a table.
+VOCdevkit/VOC2012/JPEGImages/2008_002202.jpg a black motorcycle parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2008_002210.jpg a man holding a wine glass with a starfish on it.
+VOCdevkit/VOC2012/JPEGImages/2008_002212.jpg two men sitting in an old car with a man standing next to it.
+VOCdevkit/VOC2012/JPEGImages/2008_002231.jpg a little girl sitting on a bed holding her hand up.
+VOCdevkit/VOC2012/JPEGImages/2010_004509.jpg a living room with two chairs in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2010_004515.jpg a cat standing on its hind legs to look out a window.
+VOCdevkit/VOC2012/JPEGImages/2010_004533.jpg a red car parked in the grass at night.
+VOCdevkit/VOC2012/JPEGImages/2008_002299.jpg a woman holding a cat up to her face.
+VOCdevkit/VOC2012/JPEGImages/2010_004577.jpg a blue and white car parked in the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_002311.jpg a woman is drinking from a bottle on a table.
+VOCdevkit/VOC2012/JPEGImages/2008_002317.jpg a woman playing with two dogs on a patio.
+VOCdevkit/VOC2012/JPEGImages/2008_002321.jpg three women are posing for a picture together.
+VOCdevkit/VOC2012/JPEGImages/2010_004594.jpg a crowd of people on a street with a double decker bus.
+VOCdevkit/VOC2012/JPEGImages/2008_002328.jpg three young men sitting in front of their laptops.
+VOCdevkit/VOC2012/JPEGImages/2010_004600.jpg a laptop computer sitting on top of a desk.
+VOCdevkit/VOC2012/JPEGImages/2008_002331.jpg a man standing next to a bike in the snow.
+VOCdevkit/VOC2012/JPEGImages/2008_002340.jpg two women sitting next to each other and smiling.
+VOCdevkit/VOC2012/JPEGImages/2010_004618.jpg a man is standing on the front of a car.
+VOCdevkit/VOC2012/JPEGImages/2008_002366.jpg a man wearing a helmet sitting in a race car.
+VOCdevkit/VOC2012/JPEGImages/2008_002368.jpg a green jeep driving through a stream of water.
+VOCdevkit/VOC2012/JPEGImages/2010_004654.jpg a red car parked in front of a brick building.
+VOCdevkit/VOC2012/JPEGImages/2010_004660.jpg a table with plates and utensils in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2010_004661.jpg a black car on display in a show room.
+VOCdevkit/VOC2012/JPEGImages/2008_002404.jpg a young boy eating a plate of eggs and bacon.
+VOCdevkit/VOC2012/JPEGImages/2008_002405.jpg a small child standing behind a pile of pink flowers.
+VOCdevkit/VOC2012/JPEGImages/2010_004686.jpg a woman in a dress standing under a building.
+VOCdevkit/VOC2012/JPEGImages/2010_004698.jpg a man and a woman sitting on an airplane.
+VOCdevkit/VOC2012/JPEGImages/2008_002436.jpg a woman is hugging a black dog in a pet carrier.
+VOCdevkit/VOC2012/JPEGImages/2008_002437.jpg a red car is driving around a race track.
+VOCdevkit/VOC2012/JPEGImages/2008_002438.jpg a table with many plates of food on it.
+VOCdevkit/VOC2012/JPEGImages/2010_004712.jpg a white cat sitting on top of a pair of shoes.
+VOCdevkit/VOC2012/JPEGImages/2008_002442.jpg a woman holding a white puppy in her hands.
+VOCdevkit/VOC2012/JPEGImages/2008_002444.jpg a car parked in front of a church.
+VOCdevkit/VOC2012/JPEGImages/2008_002448.jpg a group of men on a stage playing guitar.
+VOCdevkit/VOC2012/JPEGImages/2010_004747.jpg a blue car is driving on a race track.
+VOCdevkit/VOC2012/JPEGImages/2008_002466.jpg a green and white car parked in the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_002483.jpg a man walking down the street with a stick and baskets.
+VOCdevkit/VOC2012/JPEGImages/2010_004775.jpg a man and a woman sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2010_004778.jpg a group of men sitting around a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_002502.jpg a black and white photo of two men sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2010_004782.jpg a woman and a little girl sitting on a bus.
+VOCdevkit/VOC2012/JPEGImages/2008_002506.jpg three men are posing for a picture together.
+VOCdevkit/VOC2012/JPEGImages/2010_004785.jpg a race car on display in a museum.
+VOCdevkit/VOC2012/JPEGImages/2008_002508.jpg a living room and dining room with a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_002512.jpg a person standing in the doorway of a building.
+VOCdevkit/VOC2012/JPEGImages/2010_004793.jpg a dining room table with a vase of flowers on it.
+VOCdevkit/VOC2012/JPEGImages/2008_002526.jpg a man is putting a tie around his neck.
+VOCdevkit/VOC2012/JPEGImages/2008_002527.jpg a baby sitting in the grass looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2010_004809.jpg a person riding a bike on the beach at sunset.
+VOCdevkit/VOC2012/JPEGImages/2008_002541.jpg a man and a woman standing next to each other.
+VOCdevkit/VOC2012/JPEGImages/2008_002543.jpg a woman sitting on a subway train wearing sunglasses.
+VOCdevkit/VOC2012/JPEGImages/2010_004828.jpg a woman sitting at a table with two bottles of wine.
+VOCdevkit/VOC2012/JPEGImages/2008_002564.jpg a woman sitting at a table with a drink and a plate of donuts.
+VOCdevkit/VOC2012/JPEGImages/2008_002566.jpg a building with a sign on the side of it.
+VOCdevkit/VOC2012/JPEGImages/2008_002567.jpg a group of people sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2008_002575.jpg a woman standing on the beach smiling at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_002578.jpg a group of people sitting on top of a mountain.
+VOCdevkit/VOC2012/JPEGImages/2008_002599.jpg a woman wearing glasses sitting next to a lamp.
+VOCdevkit/VOC2012/JPEGImages/2008_002601.jpg a woman is feeding a baby with a bottle.
+VOCdevkit/VOC2012/JPEGImages/2008_002621.jpg a woman sitting on the ground petting a small dog.
+VOCdevkit/VOC2012/JPEGImages/2010_004890.jpg a car with a license plate on the back of it.
+VOCdevkit/VOC2012/JPEGImages/2008_002631.jpg a man riding a bike next to a bus.
+VOCdevkit/VOC2012/JPEGImages/2010_004909.jpg a wooden table with a red bowl of food on it.
+VOCdevkit/VOC2012/JPEGImages/2010_004921.jpg a man riding a bike down a city street.
+VOCdevkit/VOC2012/JPEGImages/2010_004930.jpg a car driving on a race track around orange cones.
+VOCdevkit/VOC2012/JPEGImages/2008_002675.jpg a man is wearing a costume on a tennis court.
+VOCdevkit/VOC2012/JPEGImages/2010_004952.jpg two women sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2008_002700.jpg a little girl wearing a white costume on a deck.
+VOCdevkit/VOC2012/JPEGImages/2010_004966.jpg an airplane is taking off from an airport runway.
+VOCdevkit/VOC2012/JPEGImages/2010_004973.jpg a cat laying on a mans arm on a couch.
+VOCdevkit/VOC2012/JPEGImages/2010_004983.jpg a man and two children sitting at a table drinking wine.
+VOCdevkit/VOC2012/JPEGImages/2010_004987.jpg three women sitting at a table with plates of food.
+VOCdevkit/VOC2012/JPEGImages/2010_004995.jpg two men standing next to motorcycles in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_002741.jpg a woman holding a bat in front of a red car.
+VOCdevkit/VOC2012/JPEGImages/2010_005013.jpg a blue and green bus on a city street.
+VOCdevkit/VOC2012/JPEGImages/2008_002774.jpg a woman sitting on a motorcycle on a dirt road.
+VOCdevkit/VOC2012/JPEGImages/2008_002775.jpg a woman sitting at a table with a birthday cake.
+VOCdevkit/VOC2012/JPEGImages/2010_005046.jpg a man and woman sitting at a table with glasses.
+VOCdevkit/VOC2012/JPEGImages/2008_002789.jpg a man and a child sitting in front of a laptop computer.
+VOCdevkit/VOC2012/JPEGImages/2008_002795.jpg a man is bending over in a library with a piece of wood.
+VOCdevkit/VOC2012/JPEGImages/2010_005079.jpg a woman sitting in a chair holding a beer.
+VOCdevkit/VOC2012/JPEGImages/2008_002830.jpg a man with glasses laying on a leather couch.
+VOCdevkit/VOC2012/JPEGImages/2010_005094.jpg a chair and a table with a price tag on it.
+VOCdevkit/VOC2012/JPEGImages/2008_002856.jpg a man is sitting on top of a rock.
+VOCdevkit/VOC2012/JPEGImages/2008_002864.jpg two men sitting at a table playing a game of cards.
+VOCdevkit/VOC2012/JPEGImages/2010_005127.jpg a young boy sitting on a ledge in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_002885.jpg a man sitting at a desk with a laptop computer.
+VOCdevkit/VOC2012/JPEGImages/2008_002890.jpg an old white car with a license plate on it.
+VOCdevkit/VOC2012/JPEGImages/2008_002892.jpg a group of people sitting at a table with wine glasses.
+VOCdevkit/VOC2012/JPEGImages/2008_002903.jpg a living room with couches and a dining room table.
+VOCdevkit/VOC2012/JPEGImages/2008_002910.jpg a man wearing sunglasses sitting on a bed.
+VOCdevkit/VOC2012/JPEGImages/2010_005170.jpg a little girl sitting on a vase in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_002930.jpg a woman in a wedding dress smiling for a picture.
+VOCdevkit/VOC2012/JPEGImages/2008_002932.jpg three men standing on a street corner with bikes.
+VOCdevkit/VOC2012/JPEGImages/2008_002943.jpg a car parked on the side of the street with a snowboard on top.
+VOCdevkit/VOC2012/JPEGImages/2008_002951.jpg a man is at the helm of a boat in the water.
+VOCdevkit/VOC2012/JPEGImages/2008_002956.jpg a woman and two children standing in front of a sign.
+VOCdevkit/VOC2012/JPEGImages/2010_005226.jpg a man riding a bike on the side of the road.
+VOCdevkit/VOC2012/JPEGImages/2010_005236.jpg a woman is driving a red car in a park.
+VOCdevkit/VOC2012/JPEGImages/2010_005261.jpg a red sports car with its doors open in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_003017.jpg a man holding a glass of wine in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_003039.jpg a man holding a guitar and speaking into a microphone.
+VOCdevkit/VOC2012/JPEGImages/2010_005308.jpg a room with two leather chairs and a rug on the floor.
+VOCdevkit/VOC2012/JPEGImages/2008_003061.jpg a man standing next to a red car in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_003073.jpg a bed with a quilt in a room with wallpaper.
+VOCdevkit/VOC2012/JPEGImages/2008_003089.jpg a woman playing a guitar and singing into a microphone.
+VOCdevkit/VOC2012/JPEGImages/2008_003099.jpg two men sitting at a table talking to each other.
+VOCdevkit/VOC2012/JPEGImages/2008_003100.jpg a person standing on a boat in the water.
+VOCdevkit/VOC2012/JPEGImages/2010_005384.jpg a woman holding a small dog in her arms.
+VOCdevkit/VOC2012/JPEGImages/2008_003136.jpg a little boy sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_003141.jpg a red double decker bus driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_003144.jpg a group of people standing on a pier in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_003146.jpg two women standing next to each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_005414.jpg a car that has been wrecked on the side of the road.
+VOCdevkit/VOC2012/JPEGImages/2008_003157.jpg two people standing in front of a fence with an american flag.
+VOCdevkit/VOC2012/JPEGImages/2008_003168.jpg a bedroom with a quilt on a bed and a dresser.
+VOCdevkit/VOC2012/JPEGImages/2008_003178.jpg a group of red plastic chairs in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_003191.jpg a group of people standing together in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_003193.jpg a woman sitting on the ground with bowls of food.
+VOCdevkit/VOC2012/JPEGImages/2008_003205.jpg a man standing next to a bike on a street.
+VOCdevkit/VOC2012/JPEGImages/2008_003210.jpg a woman holding a baby in her arms.
+VOCdevkit/VOC2012/JPEGImages/2008_003224.jpg three people sitting at a table with glasses of beer.
+VOCdevkit/VOC2012/JPEGImages/2008_003245.jpg a woman and a little girl sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2008_003252.jpg a white chair with a pillow in a living room.
+VOCdevkit/VOC2012/JPEGImages/2010_005512.jpg a man holding a bottle of beer in a bar.
+VOCdevkit/VOC2012/JPEGImages/2008_003278.jpg a group of people posing for a picture at a party.
+VOCdevkit/VOC2012/JPEGImages/2008_003295.jpg a man kissing a statue of a smiley face.
+VOCdevkit/VOC2012/JPEGImages/2010_005570.jpg a large bottle statue in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_003330.jpg a woman with curly hair is looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_003336.jpg a man and woman looking at a whale in the ocean.
+VOCdevkit/VOC2012/JPEGImages/2008_003350.jpg a dead end sign on the side of a road.
+VOCdevkit/VOC2012/JPEGImages/2008_003361.jpg two men standing in a room holding cups.
+VOCdevkit/VOC2012/JPEGImages/2010_005610.jpg a woman sitting on a couch with her leg up.
+VOCdevkit/VOC2012/JPEGImages/2010_005626.jpg three people sitting at a table with a box.
+VOCdevkit/VOC2012/JPEGImages/2008_003424.jpg a man and woman looking at a stuffed animal in a store.
+VOCdevkit/VOC2012/JPEGImages/2010_005654.jpg a group of people standing and sitting around a table.
+VOCdevkit/VOC2012/JPEGImages/2008_003437.jpg a man and a woman posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2010_005663.jpg a bottle of water sitting on the dashboard of a car.
+VOCdevkit/VOC2012/JPEGImages/2008_003448.jpg a small child laying on a black leather chair.
+VOCdevkit/VOC2012/JPEGImages/2008_003452.jpg a red and white car parked on the street.
+VOCdevkit/VOC2012/JPEGImages/2008_003472.jpg a man sitting on a couch in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_005700.jpg a man is jumping in front of a red car.
+VOCdevkit/VOC2012/JPEGImages/2008_003477.jpg a table with a glass of wine and a teapot on it.
+VOCdevkit/VOC2012/JPEGImages/2008_003483.jpg a man standing in the snow next to a sign.
+VOCdevkit/VOC2012/JPEGImages/2010_005723.jpg a baby is laying on a red blanket and smiling.
+VOCdevkit/VOC2012/JPEGImages/2010_005755.jpg a table with wine glasses and a candle in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2010_005758.jpg a group of young men posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2010_005764.jpg a woman sitting at a table eating a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2008_003547.jpg a wooden china cabinet with a plant on top of it.
+VOCdevkit/VOC2012/JPEGImages/2008_003559.jpg two cats laying on top of each other on a couch.
+VOCdevkit/VOC2012/JPEGImages/2008_003565.jpg three women standing next to each other holding colorful glasses.
+VOCdevkit/VOC2012/JPEGImages/2008_003611.jpg a man sitting in a chair and looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2008_003619.jpg three boys playing a game of pool at a table.
+VOCdevkit/VOC2012/JPEGImages/2008_003626.jpg a man kneeling down next to a body of water.
+VOCdevkit/VOC2012/JPEGImages/2008_003629.jpg a living room with hard wood floors and a ceiling fan.
+VOCdevkit/VOC2012/JPEGImages/2010_005853.jpg a white cat sitting on top of a wooden chair.
+VOCdevkit/VOC2012/JPEGImages/2008_003647.jpg a close up of the front of a yellow car.
+VOCdevkit/VOC2012/JPEGImages/2010_005875.jpg a woman kneeling in front of a car in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_003658.jpg a woman sitting at a table with a bowl of ice cream.
+VOCdevkit/VOC2012/JPEGImages/2010_005884.jpg a man and a woman cooking food on a grill.
+VOCdevkit/VOC2012/JPEGImages/2008_003667.jpg a flat screen tv sitting on top of a table.
+VOCdevkit/VOC2012/JPEGImages/2008_003672.jpg a girl sitting on the rocks holding a star fish.
+VOCdevkit/VOC2012/JPEGImages/2010_005891.jpg a police car parked on the side of the street.
+VOCdevkit/VOC2012/JPEGImages/2010_005898.jpg a small dog sitting on a couch next to a person.
+VOCdevkit/VOC2012/JPEGImages/2008_003681.jpg a man sitting in a chair playing a guitar.
+VOCdevkit/VOC2012/JPEGImages/2008_003680.jpg a bunch of cars parked in a parking lot at a construction site.
+VOCdevkit/VOC2012/JPEGImages/2010_005904.jpg a man is reflected in a mirror in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_003685.jpg a woman standing next to a car with the door open.
+VOCdevkit/VOC2012/JPEGImages/2008_003689.jpg a woman sitting in a chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_003706.jpg a baby wearing a white shirt laying on a bed.
+VOCdevkit/VOC2012/JPEGImages/2008_003719.jpg a small yellow car driving down the street.
+VOCdevkit/VOC2012/JPEGImages/2010_005938.jpg a black cat is looking at a wooden table.
+VOCdevkit/VOC2012/JPEGImages/2008_003721.jpg a woman standing next to a boy holding a certificate.
+VOCdevkit/VOC2012/JPEGImages/2008_003753.jpg a living room with a dining room table and a computer.
+VOCdevkit/VOC2012/JPEGImages/2010_005972.jpg a man in a blue shirt sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2008_003764.jpg a man holding a young boy on a city street.
+VOCdevkit/VOC2012/JPEGImages/2010_005985.jpg a wooden dining room table and chairs with a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2008_003774.jpg a kitchen with a table and chairs and a refrigerator.
+VOCdevkit/VOC2012/JPEGImages/2010_006000.jpg a little boy holding a roll of toilet paper.
+VOCdevkit/VOC2012/JPEGImages/2010_006010.jpg two men sitting on a porch in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_003794.jpg a truck driving down a city street with cars.
+VOCdevkit/VOC2012/JPEGImages/2010_006015.jpg a table with cups and plates on it in the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_003821.jpg a black and white chair sitting next to a window.
+VOCdevkit/VOC2012/JPEGImages/2008_003825.jpg a group of men in suits standing on a stage.
+VOCdevkit/VOC2012/JPEGImages/2010_006056.jpg a table with chairs and a couch in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_003835.jpg a sign for a desert sand motel and dining room.
+VOCdevkit/VOC2012/JPEGImages/2008_003843.jpg a man and a woman standing in front of a door.
+VOCdevkit/VOC2012/JPEGImages/2008_003866.jpg a small child sitting in a basket on a bike.
+VOCdevkit/VOC2012/JPEGImages/2008_003868.jpg a woman is standing on a street with cars.
+VOCdevkit/VOC2012/JPEGImages/2008_003874.jpg two women are standing next to each other.
+VOCdevkit/VOC2012/JPEGImages/2008_003881.jpg two women holding a baby and posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2008_003891.jpg three people sitting on a wall in front of a city.
+VOCdevkit/VOC2012/JPEGImages/2008_003904.jpg a kitchen with a wooden table with bananas on it.
+VOCdevkit/VOC2012/JPEGImages/2008_003914.jpg an older woman sitting in a chair holding a glass of wine.
+VOCdevkit/VOC2012/JPEGImages/2011_000065.jpg a glass table with two chairs on a wooden floor.
+VOCdevkit/VOC2012/JPEGImages/2011_000071.jpg a man sitting in a chair watching a television.
+VOCdevkit/VOC2012/JPEGImages/2008_003941.jpg an old building with a car parked in front of it.
+VOCdevkit/VOC2012/JPEGImages/2008_003943.jpg a blue car is driving down the road.
+VOCdevkit/VOC2012/JPEGImages/2011_000076.jpg a police car parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_003947.jpg a young boy playing in the dirt with a shovel.
+VOCdevkit/VOC2012/JPEGImages/2011_000095.jpg a red double decker bus driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_003967.jpg two women sitting next to each other with a baby.
+VOCdevkit/VOC2012/JPEGImages/2008_003978.jpg a man holding a dog in front of a house.
+VOCdevkit/VOC2012/JPEGImages/2011_000124.jpg a black chair sitting in front of an orange wall.
+VOCdevkit/VOC2012/JPEGImages/2008_003998.jpg a plate of food with a pot of soup on a table.
+VOCdevkit/VOC2012/JPEGImages/2008_004002.jpg a woman sitting in a chair next to a plant.
+VOCdevkit/VOC2012/JPEGImages/2008_004003.jpg a woman standing in the doorway of a house.
+VOCdevkit/VOC2012/JPEGImages/2011_000165.jpg two cats laying on top of a green couch.
+VOCdevkit/VOC2012/JPEGImages/2008_004018.jpg a man is standing at the top of a staircase.
+VOCdevkit/VOC2012/JPEGImages/2008_004020.jpg a close up of the back of a red car.
+VOCdevkit/VOC2012/JPEGImages/2011_000194.jpg a woman laying on the floor with a dog.
+VOCdevkit/VOC2012/JPEGImages/2011_000196.jpg three people sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2011_000206.jpg two women sitting at a table drinking wine.
+VOCdevkit/VOC2012/JPEGImages/2008_004045.jpg a woman walking down the escalator in a building.
+VOCdevkit/VOC2012/JPEGImages/2011_000213.jpg a man sitting in a chair holding a remote control.
+VOCdevkit/VOC2012/JPEGImages/2008_004054.jpg a group of young men sitting in a living room.
+VOCdevkit/VOC2012/JPEGImages/2011_000226.jpg a dining room with a table and a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2008_004071.jpg a man sitting on a stool in a room with pictures.
+VOCdevkit/VOC2012/JPEGImages/2008_004077.jpg a baby sitting in a high chair playing with a toy.
+VOCdevkit/VOC2012/JPEGImages/2011_000241.jpg people taking pictures of a train with black smoke coming out of it.
+VOCdevkit/VOC2012/JPEGImages/2008_004090.jpg a baby sitting in a high chair holding a toothbrush.
+VOCdevkit/VOC2012/JPEGImages/2008_004112.jpg a black truck parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2011_000288.jpg a chair and a television in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_000290.jpg a young boy sitting on a couch in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_004122.jpg a pug dog sitting on a yellow chair.
+VOCdevkit/VOC2012/JPEGImages/2008_004123.jpg a little boy sitting at a table with a marker in his mouth.
+VOCdevkit/VOC2012/JPEGImages/2008_004135.jpg a young boy holding up his hands in the air.
+VOCdevkit/VOC2012/JPEGImages/2008_004161.jpg two men playing guitars on a stage with a microphone.
+VOCdevkit/VOC2012/JPEGImages/2011_000338.jpg a dining room with a table and a window.
+VOCdevkit/VOC2012/JPEGImages/2011_000342.jpg a man is on a boat in the water.
+VOCdevkit/VOC2012/JPEGImages/2011_000344.jpg a man sitting at a table with a bottle of beer.
+VOCdevkit/VOC2012/JPEGImages/2008_004208.jpg a man sitting in a chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_000382.jpg a computer desk with two monitors and two keyboards.
+VOCdevkit/VOC2012/JPEGImages/2011_000383.jpg a wooden chair hanging from the ceiling in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_004224.jpg a yellow race car driving down a road at night.
+VOCdevkit/VOC2012/JPEGImages/2008_004230.jpg a man standing in a field with a hood on his head.
+VOCdevkit/VOC2012/JPEGImages/2011_000408.jpg a group of people sitting around a table with food.
+VOCdevkit/VOC2012/JPEGImages/2011_000413.jpg a man and a woman standing in a donut shop.
+VOCdevkit/VOC2012/JPEGImages/2008_004246.jpg two men sitting at a table at a bar.
+VOCdevkit/VOC2012/JPEGImages/2011_000432.jpg a black car is parked at a gas station.
+VOCdevkit/VOC2012/JPEGImages/2008_004289.jpg a wooden table with four chairs in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_000455.jpg a man and a woman riding on a motorcycle.
+VOCdevkit/VOC2012/JPEGImages/2008_004326.jpg a van parked on the side of a street with cars.
+VOCdevkit/VOC2012/JPEGImages/2011_000503.jpg a blue church with cars parked in front of it.
+VOCdevkit/VOC2012/JPEGImages/2008_004344.jpg a man and a woman standing next to each other.
+VOCdevkit/VOC2012/JPEGImages/2011_000514.jpg a small potted plant sitting on a table.
+VOCdevkit/VOC2012/JPEGImages/2011_000518.jpg a person sitting in a chair on the beach.
+VOCdevkit/VOC2012/JPEGImages/2008_004354.jpg a person riding a horse in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_004358.jpg a man standing between two trains on the tracks.
+VOCdevkit/VOC2012/JPEGImages/2011_000534.jpg three girls are posing for a picture with a boy.
+VOCdevkit/VOC2012/JPEGImages/2008_004387.jpg a blue bus sign on the side of a city street.
+VOCdevkit/VOC2012/JPEGImages/2011_000572.jpg a living room with two windows and a couch.
+VOCdevkit/VOC2012/JPEGImages/2011_000575.jpg a baby sitting in a high chair with a woman.
+VOCdevkit/VOC2012/JPEGImages/2008_004408.jpg a table and chairs with an umbrella in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_004419.jpg a man standing in a pool covered with a blue tarp.
+VOCdevkit/VOC2012/JPEGImages/2011_000607.jpg a hotel room with a bed and a television.
+VOCdevkit/VOC2012/JPEGImages/2011_000622.jpg a group of bottles on a table with a light.
+VOCdevkit/VOC2012/JPEGImages/2011_000630.jpg a group of people sitting in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_004445.jpg a patio with a table and chairs in front of a house.
+VOCdevkit/VOC2012/JPEGImages/2011_000637.jpg a motorcycle with a painting of a skull on it.
+VOCdevkit/VOC2012/JPEGImages/2011_000638.jpg two men are singing into microphones and one is playing a saxophone.
+VOCdevkit/VOC2012/JPEGImages/2008_004457.jpg a group of people sitting around a table on a ship.
+VOCdevkit/VOC2012/JPEGImages/2011_000646.jpg two children sitting on a couch with a flag.
+VOCdevkit/VOC2012/JPEGImages/2008_004460.jpg a small kitchen with a table and a microwave.
+VOCdevkit/VOC2012/JPEGImages/2011_000666.jpg a store with bananas and other fruits on display.
+VOCdevkit/VOC2012/JPEGImages/2011_000682.jpg two chairs sitting next to each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_004487.jpg a desk with a table cloth and a laptop on it.
+VOCdevkit/VOC2012/JPEGImages/2011_000684.jpg a group of people standing around tables and chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_004490.jpg a black cat sitting in a basket on a chair.
+VOCdevkit/VOC2012/JPEGImages/2008_004499.jpg a group of people standing in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_000704.jpg a black cat playing with a string on a chair.
+VOCdevkit/VOC2012/JPEGImages/2008_004519.jpg a group of people standing around a table.
+VOCdevkit/VOC2012/JPEGImages/2011_000731.jpg a man sitting at a table in a restaurant with a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2011_000745.jpg a man holding a wine glass in front of another man at a table.
+VOCdevkit/VOC2012/JPEGImages/2011_000753.jpg a man sleeping on a couch with a guitar.
+VOCdevkit/VOC2012/JPEGImages/2008_004546.jpg a group of jockeys riding horses around a race track.
+VOCdevkit/VOC2012/JPEGImages/2011_000813.jpg a cat laying on a chair in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2011_000815.jpg a wooden table with chairs and a candle on it.
+VOCdevkit/VOC2012/JPEGImages/2011_000823.jpg a group of people sitting around a table with food.
+VOCdevkit/VOC2012/JPEGImages/2008_004612.jpg a chair with two pillows in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_004619.jpg a living room with a book shelf and a loft.
+VOCdevkit/VOC2012/JPEGImages/2011_000851.jpg a woman is sitting on a subway train.
+VOCdevkit/VOC2012/JPEGImages/2011_000875.jpg a dining room with three windows and a table.
+VOCdevkit/VOC2012/JPEGImages/2011_000885.jpg two women sitting at a table at an outdoor restaurant.
+VOCdevkit/VOC2012/JPEGImages/2011_000888.jpg a yellow and blue bus driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2011_000899.jpg a woman sitting on a couch with her legs crossed.
+VOCdevkit/VOC2012/JPEGImages/2008_004656.jpg a man on a bike jumping over a rock.
+VOCdevkit/VOC2012/JPEGImages/2011_000919.jpg a kitchen with a table with chairs and a plant on it.
+VOCdevkit/VOC2012/JPEGImages/2008_004667.jpg an empty parking garage at night with lights on.
+VOCdevkit/VOC2012/JPEGImages/2011_000932.jpg a group of women posing for a picture at a party.
+VOCdevkit/VOC2012/JPEGImages/2011_000957.jpg a woman sitting in a blue chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_000965.jpg a desk with a computer on top of it.
+VOCdevkit/VOC2012/JPEGImages/2008_004706.jpg two men standing next to each other on a sidewalk.
+VOCdevkit/VOC2012/JPEGImages/2008_004707.jpg a woman holding a tray of drinks in a bar.
+VOCdevkit/VOC2012/JPEGImages/2011_000983.jpg a little girl sitting at a table giving a thumbs up.
+VOCdevkit/VOC2012/JPEGImages/2011_001004.jpg an old blue car is parked on the street.
+VOCdevkit/VOC2012/JPEGImages/2011_001009.jpg a group of people sitting around a table.
+VOCdevkit/VOC2012/JPEGImages/2011_001023.jpg a young boy standing next to a white chair.
+VOCdevkit/VOC2012/JPEGImages/2011_001027.jpg a group of people sitting in a living room.
+VOCdevkit/VOC2012/JPEGImages/2011_001036.jpg a man sitting in front of a laptop computer.
+VOCdevkit/VOC2012/JPEGImages/2008_004777.jpg a living room with a mural on the wall.
+VOCdevkit/VOC2012/JPEGImages/2011_001055.jpg two children sitting at a table in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2011_001058.jpg three people sitting at a table in a restaurant.
+VOCdevkit/VOC2012/JPEGImages/2011_001062.jpg an orange car with its hood open at a car show.
+VOCdevkit/VOC2012/JPEGImages/2011_001071.jpg a man sitting in a leather chair next to a chair.
+VOCdevkit/VOC2012/JPEGImages/2011_001093.jpg a man and woman standing behind a table with books.
+VOCdevkit/VOC2012/JPEGImages/2008_004850.jpg a white car is parked in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_004851.jpg a man and woman sitting at a table with a baby.
+VOCdevkit/VOC2012/JPEGImages/2011_001135.jpg a cat sitting on top of a desk.
+VOCdevkit/VOC2012/JPEGImages/2011_001137.jpg two red chairs and some tables in a field.
+VOCdevkit/VOC2012/JPEGImages/2008_004874.jpg a woman sitting at a table with a glass of wine.
+VOCdevkit/VOC2012/JPEGImages/2008_004881.jpg a man and a little girl playing a video game.
+VOCdevkit/VOC2012/JPEGImages/2011_001159.jpg a woman standing next to a cow in the grass.
+VOCdevkit/VOC2012/JPEGImages/2011_001167.jpg a living room and dining room with a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2011_001168.jpg a baby is drinking from a bottle of milk.
+VOCdevkit/VOC2012/JPEGImages/2008_004920.jpg a group of sail boats on the water.
+VOCdevkit/VOC2012/JPEGImages/2011_001213.jpg a man riding a bike down the street.
+VOCdevkit/VOC2012/JPEGImages/2011_001223.jpg a living room with two chairs and a desk with two computers.
+VOCdevkit/VOC2012/JPEGImages/2008_004948.jpg a group of men sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_004955.jpg an orange sports car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2011_001260.jpg a woman standing in front of a small car.
+VOCdevkit/VOC2012/JPEGImages/2008_004982.jpg a plate of pizza and a bottle of wine on a table.
+VOCdevkit/VOC2012/JPEGImages/2011_001266.jpg an orange motorcycle is parked on the grass.
+VOCdevkit/VOC2012/JPEGImages/2008_004991.jpg a man and a woman sitting on a dock fishing.
+VOCdevkit/VOC2012/JPEGImages/2008_005001.jpg a man standing under a tent selling vegetables and plants.
+VOCdevkit/VOC2012/JPEGImages/2008_005032.jpg a man riding a motorcycle with a piece of furniture on the back.
+VOCdevkit/VOC2012/JPEGImages/2008_005045.jpg a man and a little girl getting out of a car.
+VOCdevkit/VOC2012/JPEGImages/2011_001319.jpg a red chair sitting next to a grave in the woods.
+VOCdevkit/VOC2012/JPEGImages/2011_001336.jpg a woman and two girls sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2008_005066.jpg a woman sitting in a chair at a computer desk.
+VOCdevkit/VOC2012/JPEGImages/2011_001346.jpg a woman sitting on a couch eating food on a table.
+VOCdevkit/VOC2012/JPEGImages/2008_005081.jpg a dining room with a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2011_001366.jpg a wooden table with four chairs in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_001360.jpg a close up of a cactus in a pot.
+VOCdevkit/VOC2012/JPEGImages/2011_001388.jpg a woman standing next to a sign in front of a mountain.
+VOCdevkit/VOC2012/JPEGImages/2008_005101.jpg a man holding a brown puppy in his arms.
+VOCdevkit/VOC2012/JPEGImages/2008_005136.jpg a room with a bunch of clocks on the wall.
+VOCdevkit/VOC2012/JPEGImages/2008_005146.jpg a woman holding a pot of flowers and a beer.
+VOCdevkit/VOC2012/JPEGImages/2011_001451.jpg a living room with a chair and a bed.
+VOCdevkit/VOC2012/JPEGImages/2011_001521.jpg a young boy sitting in a high chair holding a cup.
+VOCdevkit/VOC2012/JPEGImages/2008_005201.jpg a woman riding a bike with a cart on it.
+VOCdevkit/VOC2012/JPEGImages/2011_001526.jpg two women sitting at a table with plates of food.
+VOCdevkit/VOC2012/JPEGImages/2008_005205.jpg a table with a red table cloth with a sign on it.
+VOCdevkit/VOC2012/JPEGImages/2008_005216.jpg a white taxi car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2008_005218.jpg two men standing in front of a white car.
+VOCdevkit/VOC2012/JPEGImages/2011_001538.jpg a woman sitting on a curb with her luggage.
+VOCdevkit/VOC2012/JPEGImages/2008_005231.jpg a man is playing a video game in a store.
+VOCdevkit/VOC2012/JPEGImages/2011_001543.jpg a black and white dog looking up at the camera.
+VOCdevkit/VOC2012/JPEGImages/2011_001547.jpg a dog laying on a rug in a living room.
+VOCdevkit/VOC2012/JPEGImages/2011_001557.jpg a group of people sitting on a dock near the water.
+VOCdevkit/VOC2012/JPEGImages/2011_001571.jpg a man and woman sitting at a table with beer.
+VOCdevkit/VOC2012/JPEGImages/2008_005248.jpg a living room with two chairs and a table.
+VOCdevkit/VOC2012/JPEGImages/2008_005257.jpg a kitchen with a table and chairs and a television.
+VOCdevkit/VOC2012/JPEGImages/2008_005271.jpg a man is playing an accordion with two boys.
+VOCdevkit/VOC2012/JPEGImages/2011_001606.jpg a red car is parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_005283.jpg a police car parked on the side of the street.
+VOCdevkit/VOC2012/JPEGImages/2008_005294.jpg a man standing in front of a white car.
+VOCdevkit/VOC2012/JPEGImages/2011_001616.jpg a group of people posing for a picture at a table.
+VOCdevkit/VOC2012/JPEGImages/2011_001621.jpg a man is playing a video game in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_005316.jpg two cars parked in front of a cabin in the woods.
+VOCdevkit/VOC2012/JPEGImages/2011_001641.jpg a man in a costume standing in front of a van.
+VOCdevkit/VOC2012/JPEGImages/2008_005323.jpg a man sitting on a couch in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_005346.jpg a black and white photo of a dog looking to the side.
+VOCdevkit/VOC2012/JPEGImages/2008_005347.jpg a kitchen with white cabinets and a granite counter top.
+VOCdevkit/VOC2012/JPEGImages/2008_005348.jpg a table with a turkey and many plates of food.
+VOCdevkit/VOC2012/JPEGImages/2008_005350.jpg two buses are parked in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_005356.jpg a white bike parked on the side of the street.
+VOCdevkit/VOC2012/JPEGImages/2008_005359.jpg a man and woman standing in front of the tower bridge.
+VOCdevkit/VOC2012/JPEGImages/2011_001700.jpg a man and woman sitting on a couch looking at a cell phone.
+VOCdevkit/VOC2012/JPEGImages/2008_005399.jpg a man and a woman sitting at a table with beer bottles.
+VOCdevkit/VOC2012/JPEGImages/2008_005414.jpg a man sitting on the porch of a house.
+VOCdevkit/VOC2012/JPEGImages/2008_005417.jpg a room with a table and chairs in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2011_001766.jpg a rocking chair in a room with a window.
+VOCdevkit/VOC2012/JPEGImages/2011_001769.jpg a group of people sitting on the steps of a building.
+VOCdevkit/VOC2012/JPEGImages/2011_001811.jpg a living room with a red couch and a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2008_005494.jpg a young boy feeding a sheep in a barn.
+VOCdevkit/VOC2012/JPEGImages/2011_001833.jpg a living room with a chair and a tv.
+VOCdevkit/VOC2012/JPEGImages/2011_001834.jpg a wicker chair sitting on top of a floor.
+VOCdevkit/VOC2012/JPEGImages/2011_001842.jpg a group of people sitting at a dinner table.
+VOCdevkit/VOC2012/JPEGImages/2011_001856.jpg a living room with chairs and a television.
+VOCdevkit/VOC2012/JPEGImages/2008_005519.jpg a table with a pink table cloth and flowers on it.
+VOCdevkit/VOC2012/JPEGImages/2011_001862.jpg a dog laying on the floor in a living room.
+VOCdevkit/VOC2012/JPEGImages/2011_001884.jpg a kitchen and dining room with a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2011_001891.jpg a couple of cars parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_005572.jpg a green van parked in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_005600.jpg a young man holding a cat on a couch.
+VOCdevkit/VOC2012/JPEGImages/2011_001949.jpg a red double decker bus driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_005612.jpg a group of people holding signs on a street.
+VOCdevkit/VOC2012/JPEGImages/2011_001961.jpg a man in a boat with a paddle in the water.
+VOCdevkit/VOC2012/JPEGImages/2008_005638.jpg a white car parked in the snow next to a building.
+VOCdevkit/VOC2012/JPEGImages/2008_005641.jpg a white car is driving down a dirt road.
+VOCdevkit/VOC2012/JPEGImages/2011_001988.jpg a man with a headband standing next to a man on a bike.
+VOCdevkit/VOC2012/JPEGImages/2011_002002.jpg a man and a woman riding on a bike.
+VOCdevkit/VOC2012/JPEGImages/2008_005663.jpg a car parked in a parking lot with a surfboard on top.
+VOCdevkit/VOC2012/JPEGImages/2008_005664.jpg two people in a boat in the water.
+VOCdevkit/VOC2012/JPEGImages/2008_005682.jpg a woman riding a horse on a dirt field.
+VOCdevkit/VOC2012/JPEGImages/2011_002041.jpg a chair and a stool next to a red wall.
+VOCdevkit/VOC2012/JPEGImages/2008_005698.jpg a man in a suit standing next to a chair.
+VOCdevkit/VOC2012/JPEGImages/2011_002096.jpg a blue car parked in front of a house.
+VOCdevkit/VOC2012/JPEGImages/2011_002106.jpg two women walking down a street next to a car.
+VOCdevkit/VOC2012/JPEGImages/2008_005747.jpg a close up of the headlights of a blue car.
+VOCdevkit/VOC2012/JPEGImages/2011_002111.jpg a bike parked on the side of a dirt road.
+VOCdevkit/VOC2012/JPEGImages/2008_005767.jpg a gray chair sitting on top of a wooden floor.
+VOCdevkit/VOC2012/JPEGImages/2011_002135.jpg a woman riding a bike down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_005788.jpg two women are sitting on a couch and laughing.
+VOCdevkit/VOC2012/JPEGImages/2011_002144.jpg a young boy holding two fish on a boat.
+VOCdevkit/VOC2012/JPEGImages/2011_002143.jpg a side view mirror on a car in a traffic jam.
+VOCdevkit/VOC2012/JPEGImages/2008_005794.jpg a group of people standing around a toy train on the floor.
+VOCdevkit/VOC2012/JPEGImages/2011_002149.jpg two people standing on a subway platform as a train passes by.
+VOCdevkit/VOC2012/JPEGImages/2008_005832.jpg a man and a woman standing in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2008_005848.jpg a young girl standing next to a lake holding a bag.
+VOCdevkit/VOC2012/JPEGImages/2008_005878.jpg a red and blue double decker bus driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2011_002260.jpg a desk with two laptops on it in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_005891.jpg two school buses and a taxi on a city street.
+VOCdevkit/VOC2012/JPEGImages/2011_002273.jpg a man standing in front of a microphone speaking into a microphone.
+VOCdevkit/VOC2012/JPEGImages/2011_002317.jpg three men standing next to each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_005934.jpg a person on a horse jumping over a fence.
+VOCdevkit/VOC2012/JPEGImages/2008_005936.jpg a red car with its doors open in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2011_002343.jpg a baby is sitting in a car seat.
+VOCdevkit/VOC2012/JPEGImages/2008_005957.jpg a man is holding a guitar around his neck.
+VOCdevkit/VOC2012/JPEGImages/2011_002358.jpg a group of people sitting around a table playing a game.
+VOCdevkit/VOC2012/JPEGImages/2011_002366.jpg a colorful race car on a race track.
+VOCdevkit/VOC2012/JPEGImages/2008_005989.jpg a black car parked in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2011_002422.jpg a dining room with a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_006037.jpg a gas station with a car parked in front of it.
+VOCdevkit/VOC2012/JPEGImages/2008_006039.jpg a group of people sitting around a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_006052.jpg a man drinking from a glass of water.
+VOCdevkit/VOC2012/JPEGImages/2011_002474.jpg a group of people sitting at a table with laptops.
+VOCdevkit/VOC2012/JPEGImages/2011_002488.jpg a man is standing under a striped umbrella.
+VOCdevkit/VOC2012/JPEGImages/2008_006078.jpg a group of people sitting on a couch.
+VOCdevkit/VOC2012/JPEGImages/2008_006082.jpg a large metal building on a city street.
+VOCdevkit/VOC2012/JPEGImages/2011_002505.jpg a man is sitting in the water by a lake.
+VOCdevkit/VOC2012/JPEGImages/2008_006120.jpg a group of people sitting around a table.
+VOCdevkit/VOC2012/JPEGImages/2011_002551.jpg a man sitting in a chair next to a bed.
+VOCdevkit/VOC2012/JPEGImages/2008_006151.jpg a little girl standing in front of a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2011_002578.jpg a woman holding a child with a hat on.
+VOCdevkit/VOC2012/JPEGImages/2011_002592.jpg a red car with its hood open on display.
+VOCdevkit/VOC2012/JPEGImages/2011_002606.jpg a man standing next to a large white table.
+VOCdevkit/VOC2012/JPEGImages/2008_006192.jpg a table with plates of food and a cup of coffee.
+VOCdevkit/VOC2012/JPEGImages/2011_002614.jpg two men sitting at a table with food and drinks.
+VOCdevkit/VOC2012/JPEGImages/2008_006215.jpg a silver suv parked next to a black suv.
+VOCdevkit/VOC2012/JPEGImages/2011_002639.jpg two men sitting next to each other on chairs.
+VOCdevkit/VOC2012/JPEGImages/2011_002640.jpg three people sitting at a table in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2011_002641.jpg a group of men sitting on a porch drinking beer.
+VOCdevkit/VOC2012/JPEGImages/2011_002650.jpg a man and woman sitting at a table on a balcony.
+VOCdevkit/VOC2012/JPEGImages/2011_002675.jpg a silver airplane is on display in a hanger.
+VOCdevkit/VOC2012/JPEGImages/2008_006253.jpg a man riding a bike down a road.
+VOCdevkit/VOC2012/JPEGImages/2008_006256.jpg a woman holding a small child on a couch.
+VOCdevkit/VOC2012/JPEGImages/2011_002709.jpg a young girl is sitting on a couch.
+VOCdevkit/VOC2012/JPEGImages/2008_006272.jpg two men in wet suits standing next to a car.
+VOCdevkit/VOC2012/JPEGImages/2008_006288.jpg a living room with a flat screen tv on a shelf.
+VOCdevkit/VOC2012/JPEGImages/2008_006311.jpg a group of people sitting at a table in a restaurant.
+VOCdevkit/VOC2012/JPEGImages/2008_006336.jpg a white car parked on the side of a road.
+VOCdevkit/VOC2012/JPEGImages/2008_006337.jpg a chair sitting on a patio in the rain.
+VOCdevkit/VOC2012/JPEGImages/2011_002795.jpg a man kneeling on the floor holding a little girl.
+VOCdevkit/VOC2012/JPEGImages/2011_002802.jpg three girls are posing for a picture together.
+VOCdevkit/VOC2012/JPEGImages/2011_002803.jpg two women sitting at a table eating food and holding a bottle.
+VOCdevkit/VOC2012/JPEGImages/2008_006350.jpg a wooden chair on display in a glass case.
+VOCdevkit/VOC2012/JPEGImages/2011_002808.jpg a staircase in a living room with a potted plant.
+VOCdevkit/VOC2012/JPEGImages/2011_002818.jpg a living room with a large book shelf filled with books.
+VOCdevkit/VOC2012/JPEGImages/2011_002834.jpg a woman laying on a couch in a living room.
+VOCdevkit/VOC2012/JPEGImages/2011_002852.jpg a man sitting in a living room with couches.
+VOCdevkit/VOC2012/JPEGImages/2008_006387.jpg a deck with a chair and a table with a view of the ocean.
+VOCdevkit/VOC2012/JPEGImages/2011_002870.jpg a chair and a sink in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_002881.jpg a group of people sitting at a table with drinks.
+VOCdevkit/VOC2012/JPEGImages/2008_006417.jpg a convertible car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2011_002887.jpg two chairs and a table in a room.
+VOCdevkit/VOC2012/JPEGImages/2011_002924.jpg a table with a table cloth and a stuffed animal on it.
+VOCdevkit/VOC2012/JPEGImages/2011_002935.jpg a woman sitting on the floor next to a bed.
+VOCdevkit/VOC2012/JPEGImages/2008_006470.jpg a red chair in a room next to a stool.
+VOCdevkit/VOC2012/JPEGImages/2011_002947.jpg a baby sitting in a high chair laughing.
+VOCdevkit/VOC2012/JPEGImages/2008_006482.jpg a small kitchen with a refrigerator and a microwave.
+VOCdevkit/VOC2012/JPEGImages/2011_002965.jpg a couch with a pillow and a cell phone on it.
+VOCdevkit/VOC2012/JPEGImages/2011_002966.jpg a group of people sitting at a table in a bar.
+VOCdevkit/VOC2012/JPEGImages/2011_002974.jpg a bottle of wine and a glass on a table.
+VOCdevkit/VOC2012/JPEGImages/2008_006540.jpg a group of people standing next to a small airplane.
+VOCdevkit/VOC2012/JPEGImages/2011_003011.jpg a wooden chair sitting on top of a wooden floor.
+VOCdevkit/VOC2012/JPEGImages/2011_003029.jpg a silver convertible car with the trunk open.
+VOCdevkit/VOC2012/JPEGImages/2011_003039.jpg a living room with a red couch and a table.
+VOCdevkit/VOC2012/JPEGImages/2011_003048.jpg a group of people are posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2008_006588.jpg a little boy eating cereal from a bowl with a spoon.
+VOCdevkit/VOC2012/JPEGImages/2011_003066.jpg a group of men sitting at a table with plates of food.
+VOCdevkit/VOC2012/JPEGImages/2011_003074.jpg three wooden chairs sitting next to each other.
+VOCdevkit/VOC2012/JPEGImages/2011_003076.jpg a kitchen with white appliances and a dining room table.
+VOCdevkit/VOC2012/JPEGImages/2008_006638.jpg three old cars parked in a garage with a box.
+VOCdevkit/VOC2012/JPEGImages/2008_006642.jpg two people riding a bike down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_006657.jpg a cat sitting in a car seat next to a drink.
+VOCdevkit/VOC2012/JPEGImages/2011_003152.jpg a young woman is laughing in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_006660.jpg a room with a chair and a window.
+VOCdevkit/VOC2012/JPEGImages/2008_006663.jpg two women sitting at a table in a restaurant.
+VOCdevkit/VOC2012/JPEGImages/2011_003158.jpg a table with plates of food and candles on it.
+VOCdevkit/VOC2012/JPEGImages/2011_003167.jpg a man playing a guitar next to a woman.
+VOCdevkit/VOC2012/JPEGImages/2008_006684.jpg a man sitting in a chair with a little girl.
+VOCdevkit/VOC2012/JPEGImages/2011_003183.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_006694.jpg a red jeep parked on the side of the road.
+VOCdevkit/VOC2012/JPEGImages/2008_006710.jpg a man standing in an office holding a camera.
+VOCdevkit/VOC2012/JPEGImages/2011_003201.jpg a living room with a couch and two chairs.
+VOCdevkit/VOC2012/JPEGImages/2011_003232.jpg a boat is sailing in the ocean on the water.
+VOCdevkit/VOC2012/JPEGImages/2008_006732.jpg a baby is sitting in a car seat.
+VOCdevkit/VOC2012/JPEGImages/2011_003259.jpg a young man laying on a couch under a blanket.
+VOCdevkit/VOC2012/JPEGImages/2011_003260.jpg people walking on a platform next to a train at a train station.
+VOCdevkit/VOC2012/JPEGImages/2008_006796.jpg a young man sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2008_006800.jpg a car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2008_006808.jpg a kitchen with a table and a refrigerator in it.
+VOCdevkit/VOC2012/JPEGImages/2008_006816.jpg an older woman sitting next to a young boy.
+VOCdevkit/VOC2012/JPEGImages/2008_006847.jpg two men standing next to a body of water.
+VOCdevkit/VOC2012/JPEGImages/2008_006855.jpg two people sitting next to a speed limit sign.
+VOCdevkit/VOC2012/JPEGImages/2008_006864.jpg a man and a girl sitting on a couch with a baby.
+VOCdevkit/VOC2012/JPEGImages/2008_006874.jpg a man and a woman standing next to a motorcycle.
+VOCdevkit/VOC2012/JPEGImages/2008_006892.jpg a woman is sheering a sheep in a barn.
+VOCdevkit/VOC2012/JPEGImages/2008_006941.jpg a man holding up a bottle of coke zero.
+VOCdevkit/VOC2012/JPEGImages/2008_006952.jpg a group of people sitting around a table in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_006960.jpg a man wearing a yellow shirt standing next to a wall.
+VOCdevkit/VOC2012/JPEGImages/2008_006962.jpg two cats are sitting on a wooden chair.
+VOCdevkit/VOC2012/JPEGImages/2008_006989.jpg a man riding a motorcycle down a street.
+VOCdevkit/VOC2012/JPEGImages/2008_007006.jpg a teddy bear sitting on a wooden rocking chair.
+VOCdevkit/VOC2012/JPEGImages/2008_007097.jpg two women sitting at a table in a restaurant.
+VOCdevkit/VOC2012/JPEGImages/2008_007119.jpg a yellow car with a colorful paint job on it.
+VOCdevkit/VOC2012/JPEGImages/2008_007166.jpg a living room with a kitchen and a table.
+VOCdevkit/VOC2012/JPEGImages/2008_007194.jpg three orange chairs sitting next to each other on a sidewalk.
+VOCdevkit/VOC2012/JPEGImages/2008_007223.jpg a man sitting in a chair on a porch.
+VOCdevkit/VOC2012/JPEGImages/2008_007281.jpg a man sitting on a couch with a laptop.
+VOCdevkit/VOC2012/JPEGImages/2008_007286.jpg a dog standing in front of an open refrigerator.
+VOCdevkit/VOC2012/JPEGImages/2008_007291.jpg a group of people sitting around a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_007307.jpg a kitchen with a dishwasher and a table and chair.
+VOCdevkit/VOC2012/JPEGImages/2008_007311.jpg a black brown and white dog sitting next to a tree.
+VOCdevkit/VOC2012/JPEGImages/2008_007335.jpg a statue of a man standing next to two chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_007348.jpg a person jumping a dirt bike in the air.
+VOCdevkit/VOC2012/JPEGImages/2008_007363.jpg an orange and white cat sleeping on a black chair.
+VOCdevkit/VOC2012/JPEGImages/2008_007431.jpg a city street with cars and people walking down it.
+VOCdevkit/VOC2012/JPEGImages/2008_007435.jpg a group of people standing together in a room.
+VOCdevkit/VOC2012/JPEGImages/2008_007473.jpg three glass bottles sitting on the floor in front of a wooden ceiling.
+VOCdevkit/VOC2012/JPEGImages/2008_007524.jpg two children looking at horses through a fence.
+VOCdevkit/VOC2012/JPEGImages/2008_007527.jpg a desk with a computer and a laptop on it.
+VOCdevkit/VOC2012/JPEGImages/2008_007534.jpg a dog standing in the middle of a dirt field.
+VOCdevkit/VOC2012/JPEGImages/2008_007573.jpg a close up of the back of a car with the google logo.
+VOCdevkit/VOC2012/JPEGImages/2008_007585.jpg a man and a woman sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2008_007617.jpg three people sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2008_007668.jpg a small black dog playing with a teddy bear.
+VOCdevkit/VOC2012/JPEGImages/2008_007685.jpg an office with a computer and a bulletin board.
+VOCdevkit/VOC2012/JPEGImages/2008_007698.jpg a sign for a building with cars parked in front of it.
+VOCdevkit/VOC2012/JPEGImages/2008_007717.jpg a group of men sitting around a table.
+VOCdevkit/VOC2012/JPEGImages/2008_007759.jpg a red and yellow train on the tracks in the snow.
+VOCdevkit/VOC2012/JPEGImages/2008_007768.jpg an old man sitting in a chair holding a baby.
+VOCdevkit/VOC2012/JPEGImages/2008_007786.jpg a truck and cars on a street in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_007789.jpg a subway tunnel with people walking through it.
+VOCdevkit/VOC2012/JPEGImages/2008_007827.jpg a man and a woman sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2008_007843.jpg two children laying on the floor with bottles of water.
+VOCdevkit/VOC2012/JPEGImages/2008_007869.jpg a busy highway with a city in the background.
+VOCdevkit/VOC2012/JPEGImages/2008_007922.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2008_007923.jpg a man with glasses holding two water bottles.
+VOCdevkit/VOC2012/JPEGImages/2008_007936.jpg a person holding a bird in their hand.
+VOCdevkit/VOC2012/JPEGImages/2008_007949.jpg a kitchen with wooden cabinets and a table.
+VOCdevkit/VOC2012/JPEGImages/2008_007990.jpg three women posing for a picture in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_008024.jpg two potted plants sitting on a window sill.
+VOCdevkit/VOC2012/JPEGImages/2008_008070.jpg a dining room table set with green napkins and plates.
+VOCdevkit/VOC2012/JPEGImages/2008_008098.jpg a woman and a baby sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2008_008155.jpg a man standing in a kitchen cooking food in a pan.
+VOCdevkit/VOC2012/JPEGImages/2008_008184.jpg a group of people standing in front of paintings.
+VOCdevkit/VOC2012/JPEGImages/2008_008330.jpg a woman is painting on a table in a living room.
+VOCdevkit/VOC2012/JPEGImages/2008_008335.jpg a man sitting at a table with a drink.
+VOCdevkit/VOC2012/JPEGImages/2008_008338.jpg a white jeep parked in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2008_008363.jpg a dining room with a table and chairs and a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2008_008439.jpg a hotel room with a desk and a large window.
+VOCdevkit/VOC2012/JPEGImages/2008_008479.jpg a man is standing in front of an airplane.
+VOCdevkit/VOC2012/JPEGImages/2008_008522.jpg a person standing in front of a blue couch.
+VOCdevkit/VOC2012/JPEGImages/2008_008536.jpg a white plastic chair sitting on the edge of the water.
+VOCdevkit/VOC2012/JPEGImages/2008_008621.jpg a living room with two couches and a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2008_008649.jpg a living room with a red couch and a fireplace.
+VOCdevkit/VOC2012/JPEGImages/2008_008694.jpg a brown chair in a living room with a bottle of beer.
+VOCdevkit/VOC2012/JPEGImages/2008_008701.jpg a red double decker bus driving down a city street.
+VOCdevkit/VOC2012/JPEGImages/2008_008717.jpg a man is riding a bike in the air.
+VOCdevkit/VOC2012/JPEGImages/2008_008753.jpg a person riding a bike over a brick wall.
+VOCdevkit/VOC2012/JPEGImages/2008_008773.jpg a room with a table and chairs and three windows.
+VOCdevkit/VOC2012/JPEGImages/2009_000010.jpg a woman sitting at a table with a ironing board.
+VOCdevkit/VOC2012/JPEGImages/2009_000021.jpg a police car parked in a field with people.
+VOCdevkit/VOC2012/JPEGImages/2009_000028.jpg three colorful chairs sitting in front of a shed.
+VOCdevkit/VOC2012/JPEGImages/2009_000042.jpg a red race car on a race track.
+VOCdevkit/VOC2012/JPEGImages/2009_000056.jpg a group of people walking down a street.
+VOCdevkit/VOC2012/JPEGImages/2009_000060.jpg a yellow bus parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2009_000063.jpg a little girl smiling with her hands on her face.
+VOCdevkit/VOC2012/JPEGImages/2009_000096.jpg a living room with two leather couches and a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2009_000109.jpg a wooden table with two chairs and a newspaper on it.
+VOCdevkit/VOC2012/JPEGImages/2009_000282.jpg a man kneeling down with a dog in the snow.
+VOCdevkit/VOC2012/JPEGImages/2009_000316.jpg a living room with a couch and a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2009_000456.jpg a baby in a high chair with food on its face.
+VOCdevkit/VOC2012/JPEGImages/2009_000457.jpg a woman riding a bike on a city street.
+VOCdevkit/VOC2012/JPEGImages/2009_000464.jpg a group of people standing in a kitchen.
+VOCdevkit/VOC2012/JPEGImages/2009_000525.jpg a man wearing a pink hard hat and headphones.
+VOCdevkit/VOC2012/JPEGImages/2009_000542.jpg two cars parked on the side of a street at night.
+VOCdevkit/VOC2012/JPEGImages/2009_000552.jpg a little girl sitting in a red chair holding a toothbrush.
+VOCdevkit/VOC2012/JPEGImages/2009_000575.jpg a table with plates with slices of pizza on it.
+VOCdevkit/VOC2012/JPEGImages/2009_000590.jpg a green chair with a potted plant on it.
+VOCdevkit/VOC2012/JPEGImages/2009_000631.jpg an old silver car is parked on the street.
+VOCdevkit/VOC2012/JPEGImages/2009_000683.jpg a yellow car is driving on a race track.
+VOCdevkit/VOC2012/JPEGImages/2009_000727.jpg a person on a horse jumping over an obstacle.
+VOCdevkit/VOC2012/JPEGImages/2009_000759.jpg a group of men sitting at a table with wine glasses.
+VOCdevkit/VOC2012/JPEGImages/2009_000762.jpg a wooden chair sitting next to a pile of hay.
+VOCdevkit/VOC2012/JPEGImages/2009_000811.jpg a table with orange chairs and a plate on it.
+VOCdevkit/VOC2012/JPEGImages/2009_000834.jpg a young child sitting at a table with a bowl of food.
+VOCdevkit/VOC2012/JPEGImages/2009_000843.jpg a woman is riding a horse in a field.
+VOCdevkit/VOC2012/JPEGImages/2009_000904.jpg two birds walking on the grass near aexit only sign.
+VOCdevkit/VOC2012/JPEGImages/2009_000906.jpg a red truck parked in front of a mountain.
+VOCdevkit/VOC2012/JPEGImages/2009_000960.jpg a city bus driving down a city street.
+VOCdevkit/VOC2012/JPEGImages/2009_000969.jpg a woman sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2009_000980.jpg a dining room with a glass table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_001000.jpg a living room with a christmas tree and a television.
+VOCdevkit/VOC2012/JPEGImages/2009_001009.jpg a living room with a table and chairs and bags on the floor.
+VOCdevkit/VOC2012/JPEGImages/2009_001024.jpg a woman sitting on a bench holding a bottle of water.
+VOCdevkit/VOC2012/JPEGImages/2009_001030.jpg a young boy holding a camera in a park.
+VOCdevkit/VOC2012/JPEGImages/2009_001085.jpg a red chair with a plant sitting on it.
+VOCdevkit/VOC2012/JPEGImages/2009_001091.jpg a group of people standing in front of a bus.
+VOCdevkit/VOC2012/JPEGImages/2009_001111.jpg a woman standing in front of a computer monitor.
+VOCdevkit/VOC2012/JPEGImages/2009_001215.jpg a wooden table with playing cards and poker chips on it.
+VOCdevkit/VOC2012/JPEGImages/2009_001240.jpg a car with a ramp next to a truck on a street.
+VOCdevkit/VOC2012/JPEGImages/2009_001299.jpg a man sitting on a couch looking at his cell phone.
+VOCdevkit/VOC2012/JPEGImages/2009_001319.jpg a man and woman sitting at a table in a restaurant.
+VOCdevkit/VOC2012/JPEGImages/2009_001327.jpg two wooden chairs sitting at a table in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_001374.jpg a black car parked on the side of a road.
+VOCdevkit/VOC2012/JPEGImages/2009_001376.jpg a little girl laying on a couch wearing glasses.
+VOCdevkit/VOC2012/JPEGImages/2009_001398.jpg a dining room table with a bottle of water on it.
+VOCdevkit/VOC2012/JPEGImages/2009_001431.jpg a black chair sitting on top of a floor.
+VOCdevkit/VOC2012/JPEGImages/2009_001434.jpg a restaurant with tables and chairs and a ceiling.
+VOCdevkit/VOC2012/JPEGImages/2009_001437.jpg two people sitting on a couch with a laptop.
+VOCdevkit/VOC2012/JPEGImages/2009_001440.jpg a couch in a living room with a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2009_001462.jpg a room with a column and a book shelf.
+VOCdevkit/VOC2012/JPEGImages/2009_001474.jpg a person is bending over on a skateboard.
+VOCdevkit/VOC2012/JPEGImages/2009_001508.jpg a group of men playing music on a stage.
+VOCdevkit/VOC2012/JPEGImages/2009_001536.jpg an overturned car in a body of water.
+VOCdevkit/VOC2012/JPEGImages/2009_001546.jpg a car stopped at a traffic light at an intersection.
+VOCdevkit/VOC2012/JPEGImages/2009_001585.jpg a woman in a latex outfit standing next to a car.
+VOCdevkit/VOC2012/JPEGImages/2009_001598.jpg a bench sitting next to a tree in the woods.
+VOCdevkit/VOC2012/JPEGImages/2009_001670.jpg a table with a white table cloth and wooden chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_001690.jpg two men posing for a picture in front of a red wall.
+VOCdevkit/VOC2012/JPEGImages/2009_001767.jpg a man is taking a picture of a car in the snow.
+VOCdevkit/VOC2012/JPEGImages/2009_001782.jpg a red car parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2009_001801.jpg a man with a bird perched on his shoulder.
+VOCdevkit/VOC2012/JPEGImages/2009_001806.jpg a chair and a potted plant in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_001810.jpg a baby is holding a bottle in its mouth.
+VOCdevkit/VOC2012/JPEGImages/2009_001846.jpg a man with three children laying in a chair.
+VOCdevkit/VOC2012/JPEGImages/2009_001852.jpg a television screen with a man sitting in a car on it.
+VOCdevkit/VOC2012/JPEGImages/2009_001856.jpg a man sitting in a chair in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2009_001861.jpg a man driving an old car in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2009_001907.jpg a bottle of water sitting on top of a table.
+VOCdevkit/VOC2012/JPEGImages/2009_001945.jpg a close up of a car on display at a car show.
+VOCdevkit/VOC2012/JPEGImages/2009_001960.jpg a white dog laying on a pillow on a couch.
+VOCdevkit/VOC2012/JPEGImages/2009_001994.jpg a woman laying in the grass in a park.
+VOCdevkit/VOC2012/JPEGImages/2009_002003.jpg a table and two chairs in a restaurant.
+VOCdevkit/VOC2012/JPEGImages/2009_002024.jpg a plate of food and a cup of soup on a table.
+VOCdevkit/VOC2012/JPEGImages/2009_002044.jpg a long table with a red table cloth and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_002057.jpg a bus driving down a street with a man with a bike.
+VOCdevkit/VOC2012/JPEGImages/2009_002064.jpg a red chair sitting on top of a metal fence.
+VOCdevkit/VOC2012/JPEGImages/2009_002083.jpg a living room with a chair and a couch.
+VOCdevkit/VOC2012/JPEGImages/2009_002098.jpg a living room with a table and chairs next to a pool.
+VOCdevkit/VOC2012/JPEGImages/2009_002123.jpg a man holding a coffee mug up to his ear.
+VOCdevkit/VOC2012/JPEGImages/2009_002131.jpg a man riding a motorcycle on a race track.
+VOCdevkit/VOC2012/JPEGImages/2009_002137.jpg a glass bottle sitting on the ground next to a wall.
+VOCdevkit/VOC2012/JPEGImages/2009_002146.jpg a sail boat in the ocean with people on it.
+VOCdevkit/VOC2012/JPEGImages/2009_002185.jpg a man sitting in a chair holding a bottle of wine.
+VOCdevkit/VOC2012/JPEGImages/2009_002208.jpg a room with a table and chairs made out of wood.
+VOCdevkit/VOC2012/JPEGImages/2009_002236.jpg a lamp sitting next to a chair in a bedroom.
+VOCdevkit/VOC2012/JPEGImages/2009_002239.jpg a yellow motorcycle parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2009_002242.jpg a woman in a purple dress holding a microphone.
+VOCdevkit/VOC2012/JPEGImages/2009_002297.jpg a man holding a piece of wood in the woods.
+VOCdevkit/VOC2012/JPEGImages/2009_002312.jpg a truck parked in a parking lot next to ramps.
+VOCdevkit/VOC2012/JPEGImages/2009_002326.jpg a man with dreadlocks standing in front of a microphone.
+VOCdevkit/VOC2012/JPEGImages/2009_002328.jpg a table with plates of food and a bottle of wine.
+VOCdevkit/VOC2012/JPEGImages/2009_002331.jpg a group of people sitting at desks in a library.
+VOCdevkit/VOC2012/JPEGImages/2009_002346.jpg a man sitting on a couch holding a small dog.
+VOCdevkit/VOC2012/JPEGImages/2009_002433.jpg a group of people sitting around a table with food.
+VOCdevkit/VOC2012/JPEGImages/2009_002443.jpg a table with a bunch of plates and cups on it.
+VOCdevkit/VOC2012/JPEGImages/2009_002444.jpg a living room with blue walls and a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_002452.jpg a dining room table with a vase of flowers on it.
+VOCdevkit/VOC2012/JPEGImages/2009_002471.jpg three men sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2009_002524.jpg a group of people sitting at tables outside eating.
+VOCdevkit/VOC2012/JPEGImages/2009_002546.jpg a dining room with a picture of mickey mouse on the wall.
+VOCdevkit/VOC2012/JPEGImages/2009_002556.jpg two men standing next to each other holding a sign.
+VOCdevkit/VOC2012/JPEGImages/2009_002558.jpg a living room with two couches and a table.
+VOCdevkit/VOC2012/JPEGImages/2009_002579.jpg a man sitting at a table with bottles of alcohol.
+VOCdevkit/VOC2012/JPEGImages/2009_002584.jpg a man wearing glasses looking up at a window with red flowers.
+VOCdevkit/VOC2012/JPEGImages/2009_002585.jpg a wooden chair sitting on the floor next to a wall.
+VOCdevkit/VOC2012/JPEGImages/2009_002586.jpg a small dog wearing a sweater next to a child.
+VOCdevkit/VOC2012/JPEGImages/2009_002613.jpg a glass dining table with four red chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_002634.jpg a view of a mountain with tables and chairs and umbrellas.
+VOCdevkit/VOC2012/JPEGImages/2009_002652.jpg a computer monitor and keyboard on a desk.
+VOCdevkit/VOC2012/JPEGImages/2009_002663.jpg a wooden table with chairs in a living room.
+VOCdevkit/VOC2012/JPEGImages/2009_002688.jpg a kitchen with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_002698.jpg two boys standing in front of a christmas tree.
+VOCdevkit/VOC2012/JPEGImages/2009_002732.jpg a young girl feeding a baby with a bottle.
+VOCdevkit/VOC2012/JPEGImages/2009_002743.jpg three people sitting at a table with wine glasses.
+VOCdevkit/VOC2012/JPEGImages/2009_002792.jpg a group of people sitting on a bench.
+VOCdevkit/VOC2012/JPEGImages/2009_002816.jpg a christmas tree with lights in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2009_002827.jpg a woman sitting at a desk holding an umbrella.
+VOCdevkit/VOC2012/JPEGImages/2009_002841.jpg an old brick building with an archway and a door.
+VOCdevkit/VOC2012/JPEGImages/2009_002842.jpg a black and white photo of a staircase with lights.
+VOCdevkit/VOC2012/JPEGImages/2009_002862.jpg a car on a race track on a track.
+VOCdevkit/VOC2012/JPEGImages/2009_002932.jpg two men standing next to each other in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_002990.jpg a yellow car is driving on a race track.
+VOCdevkit/VOC2012/JPEGImages/2009_003003.jpg a bottle of champagne sitting on top of a table.
+VOCdevkit/VOC2012/JPEGImages/2009_003031.jpg a blue car parked on the side of a road.
+VOCdevkit/VOC2012/JPEGImages/2009_003044.jpg a man is standing in front of an airplane.
+VOCdevkit/VOC2012/JPEGImages/2009_003064.jpg a woman with glasses is looking at the camera.
+VOCdevkit/VOC2012/JPEGImages/2009_003065.jpg a man riding a bike down a road.
+VOCdevkit/VOC2012/JPEGImages/2009_003078.jpg a wooden table with three chairs and a television.
+VOCdevkit/VOC2012/JPEGImages/2009_003116.jpg a woman sitting on a chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_003126.jpg a woman sitting in a chair by a pool.
+VOCdevkit/VOC2012/JPEGImages/2009_003142.jpg a bottle of wine sitting on a rock in the water.
+VOCdevkit/VOC2012/JPEGImages/2009_003212.jpg a row of cars parked on the side of a street.
+VOCdevkit/VOC2012/JPEGImages/2009_003238.jpg a man riding a motorcycle on a city street.
+VOCdevkit/VOC2012/JPEGImages/2009_003253.jpg a kitchen with a glass table and two chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_003269.jpg a man sitting in a car holding a bottle of beer.
+VOCdevkit/VOC2012/JPEGImages/2009_003282.jpg a young boy sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2009_003310.jpg a person holding a camera between two cars.
+VOCdevkit/VOC2012/JPEGImages/2009_003317.jpg a table with four chairs and a bowl of fruit on it.
+VOCdevkit/VOC2012/JPEGImages/2009_003327.jpg a doll sitting on a chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_003347.jpg a man holding a bottle of wine in a bar.
+VOCdevkit/VOC2012/JPEGImages/2009_003406.jpg a small red car driving down a street.
+VOCdevkit/VOC2012/JPEGImages/2009_003409.jpg a woman sitting on a couch next to a plant.
+VOCdevkit/VOC2012/JPEGImages/2009_003440.jpg a living room with a table and some chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_003441.jpg a woman sitting on a couch with two boys.
+VOCdevkit/VOC2012/JPEGImages/2009_003454.jpg a statue of a man standing next to a wall.
+VOCdevkit/VOC2012/JPEGImages/2009_003494.jpg a woman standing on a stool in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_003520.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_003540.jpg a man and a boy are looking at the train tracks.
+VOCdevkit/VOC2012/JPEGImages/2009_003545.jpg a dining room with a black table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_003554.jpg a bedroom with a bed and a television on a dresser.
+VOCdevkit/VOC2012/JPEGImages/2009_003594.jpg a man in a blue shirt is playing drums.
+VOCdevkit/VOC2012/JPEGImages/2009_003668.jpg a young child sitting in a chair with yellow boots.
+VOCdevkit/VOC2012/JPEGImages/2009_003671.jpg a living room with a couch and a table.
+VOCdevkit/VOC2012/JPEGImages/2009_003689.jpg a man is taking a picture of a building on fire.
+VOCdevkit/VOC2012/JPEGImages/2009_003694.jpg a red chair sitting on a sidewalk next to a building.
+VOCdevkit/VOC2012/JPEGImages/2009_003752.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_003840.jpg two people sitting at a table in front of a window.
+VOCdevkit/VOC2012/JPEGImages/2009_003884.jpg a row of chairs in a room with pictures on the wall.
+VOCdevkit/VOC2012/JPEGImages/2009_003888.jpg a man and woman sitting at a table with wine.
+VOCdevkit/VOC2012/JPEGImages/2009_003966.jpg a living room with two couches and a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2009_003973.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_003991.jpg a little girl sitting in a chair drinking from a cup.
+VOCdevkit/VOC2012/JPEGImages/2009_004020.jpg a dog with a long white hair is being held by a person.
+VOCdevkit/VOC2012/JPEGImages/2009_004032.jpg a group of people sitting around a table with food.
+VOCdevkit/VOC2012/JPEGImages/2009_004043.jpg a man riding a blue motorcycle on a track.
+VOCdevkit/VOC2012/JPEGImages/2009_004050.jpg a man standing behind a counter holding cards.
+VOCdevkit/VOC2012/JPEGImages/2009_004051.jpg a gray cat sitting on top of a table.
+VOCdevkit/VOC2012/JPEGImages/2009_004092.jpg a woman sitting in a chair reading a book.
+VOCdevkit/VOC2012/JPEGImages/2009_004112.jpg a man sitting at a table eating with a spoon.
+VOCdevkit/VOC2012/JPEGImages/2009_004124.jpg a table with a tea pot and a cup on it.
+VOCdevkit/VOC2012/JPEGImages/2009_004133.jpg two girls are standing in front of a car.
+VOCdevkit/VOC2012/JPEGImages/2009_004142.jpg an old woman holding money up to her face.
+VOCdevkit/VOC2012/JPEGImages/2009_004152.jpg an empty office with several desks and chairs.
+VOCdevkit/VOC2012/JPEGImages/2009_004154.jpg a man and woman sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2009_004205.jpg a man dressed as a referee holding a pink box.
+VOCdevkit/VOC2012/JPEGImages/2009_004217.jpg a chair sitting in front of a painting on a wall.
+VOCdevkit/VOC2012/JPEGImages/2009_004218.jpg a group of people inside of an airplane seats.
+VOCdevkit/VOC2012/JPEGImages/2009_004228.jpg a man sitting at a table with a plate of food.
+VOCdevkit/VOC2012/JPEGImages/2009_004303.jpg a young boy riding a bike in front of a car.
+VOCdevkit/VOC2012/JPEGImages/2009_004312.jpg a table with two chairs and a table cloth on it.
+VOCdevkit/VOC2012/JPEGImages/2009_004322.jpg a man sitting on a couch holding a remote control.
+VOCdevkit/VOC2012/JPEGImages/2009_004327.jpg a white car is parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2009_004347.jpg a woman holding a child in front of a mountain.
+VOCdevkit/VOC2012/JPEGImages/2009_004359.jpg two people sitting in front of a computer screen.
+VOCdevkit/VOC2012/JPEGImages/2009_004377.jpg a man sitting in a chair surrounded by balloons.
+VOCdevkit/VOC2012/JPEGImages/2009_004429.jpg a group of people sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2009_004436.jpg a car with a satellite dish on the back of it.
+VOCdevkit/VOC2012/JPEGImages/2009_004445.jpg a white dog sitting on the floor in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_004471.jpg a silver car is parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2009_004479.jpg a brown dog laying on a chair with a ball.
+VOCdevkit/VOC2012/JPEGImages/2009_004494.jpg a sign on the side of a road in the grass.
+VOCdevkit/VOC2012/JPEGImages/2009_004499.jpg a wooden dining room table with a bowl of fruit on it.
+VOCdevkit/VOC2012/JPEGImages/2009_004532.jpg a table with a red table cloth and flowers on it.
+VOCdevkit/VOC2012/JPEGImages/2009_004537.jpg a table with flowers and a chandelier in a room.
+VOCdevkit/VOC2012/JPEGImages/2009_004562.jpg a dining room with a laptop computer on a table.
+VOCdevkit/VOC2012/JPEGImages/2009_004572.jpg a person in a red race car on a track.
+VOCdevkit/VOC2012/JPEGImages/2009_004579.jpg a couple of bottles of wine on a table.
+VOCdevkit/VOC2012/JPEGImages/2009_004631.jpg a cat laying on a chair in a living room.
+VOCdevkit/VOC2012/JPEGImages/2009_004674.jpg three people sitting on a couch in a living room.
+VOCdevkit/VOC2012/JPEGImages/2009_004694.jpg a man holding a bottle of beer and a woman holding a baseball bat.
+VOCdevkit/VOC2012/JPEGImages/2009_004734.jpg a wooden table topped with cakes and plates of food.
+VOCdevkit/VOC2012/JPEGImages/2009_004769.jpg a dining room table with a candle and a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2009_004806.jpg two women sitting on the ground in the dark.
+VOCdevkit/VOC2012/JPEGImages/2009_004824.jpg a black car parked in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2009_004899.jpg a man giving the peace sign to two other people.
+VOCdevkit/VOC2012/JPEGImages/2009_004901.jpg a living room with a couch and a coffee table.
+VOCdevkit/VOC2012/JPEGImages/2009_004913.jpg a black and white photo of a race car on display.
+VOCdevkit/VOC2012/JPEGImages/2009_004933.jpg a man riding a small bike in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2009_005078.jpg a person riding a motorcycle on a race track.
+VOCdevkit/VOC2012/JPEGImages/2009_005082.jpg two men riding bikes and one is drinking water.
+VOCdevkit/VOC2012/JPEGImages/2009_005094.jpg a man standing in front of a large bear statue.
+VOCdevkit/VOC2012/JPEGImages/2009_005098.jpg a bike is chained to a pole on the street.
+VOCdevkit/VOC2012/JPEGImages/2009_005104.jpg an old white car parked in a parking lot.
+VOCdevkit/VOC2012/JPEGImages/2009_005141.jpg a man standing in a kitchen preparing food.
+VOCdevkit/VOC2012/JPEGImages/2009_005170.jpg a close up of an aloe vera plant in a pot.
+VOCdevkit/VOC2012/JPEGImages/2009_005183.jpg a group of people in an office with desks.
+VOCdevkit/VOC2012/JPEGImages/2009_005191.jpg an owl with yellow eyes standing next to a person.
+VOCdevkit/VOC2012/JPEGImages/2009_005205.jpg a long table with plates and a bowl of food on it.
+VOCdevkit/VOC2012/JPEGImages/2009_005216.jpg four children sitting on a large red chair.
+VOCdevkit/VOC2012/JPEGImages/2009_005242.jpg a blue and white race car on a race track.
+VOCdevkit/VOC2012/JPEGImages/2009_005257.jpg a man sitting in a chair next to a fire.
+VOCdevkit/VOC2012/JPEGImages/2009_005265.jpg a man standing with a bike in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2009_005286.jpg a woman standing on the porch of a house.
+VOCdevkit/VOC2012/JPEGImages/2009_005288.jpg a living room with white furniture and a television.
+VOCdevkit/VOC2012/JPEGImages/2009_005311.jpg a group of people sitting around a table outside.
+VOCdevkit/VOC2012/JPEGImages/2010_000020.jpg a woman holding a baby goat in her hands.
+VOCdevkit/VOC2012/JPEGImages/2010_000031.jpg a black car is parked next to a silver car.
+VOCdevkit/VOC2012/JPEGImages/2010_000036.jpg a black car is parked next to a tree.
+VOCdevkit/VOC2012/JPEGImages/2010_000110.jpg a small brown dog taking a bath in a bath tub.
+VOCdevkit/VOC2012/JPEGImages/2010_000127.jpg a black and white dog chewing on a glass bowl.
+VOCdevkit/VOC2012/JPEGImages/2010_000131.jpg a person holding a bottle in their hand.
+VOCdevkit/VOC2012/JPEGImages/2010_000140.jpg a man and a woman are holding a dog.
+VOCdevkit/VOC2012/JPEGImages/2010_000162.jpg a woman is holding a dog and looking at its face.
+VOCdevkit/VOC2012/JPEGImages/2010_000174.jpg two women standing at a table with a plate.
+VOCdevkit/VOC2012/JPEGImages/2010_000202.jpg a potted plant with green and red leaves.
+VOCdevkit/VOC2012/JPEGImages/2010_000234.jpg a little girl playing with a suitcase in the grass.
+VOCdevkit/VOC2012/JPEGImages/2010_000246.jpg two small cars parked next to each other in a field.
+VOCdevkit/VOC2012/JPEGImages/2010_000269.jpg a cat laying on top of a wooden table.
+VOCdevkit/VOC2012/JPEGImages/2010_000336.jpg a blue car with a reflection of a tree.
+VOCdevkit/VOC2012/JPEGImages/2010_000372.jpg a car parked in a parking lot with other cars.
+VOCdevkit/VOC2012/JPEGImages/2010_000375.jpg a man sitting in a room with a small refrigerator and a television.
+VOCdevkit/VOC2012/JPEGImages/2010_000439.jpg a black and white cat laying on the floor.
+VOCdevkit/VOC2012/JPEGImages/2010_000448.jpg a group of men sitting at a table with beer.
+VOCdevkit/VOC2012/JPEGImages/2010_000463.jpg a dining room with a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2010_000485.jpg a chair with shoes sitting on top of it.
+VOCdevkit/VOC2012/JPEGImages/2010_000492.jpg a young man sitting in a chair with a red bag.
+VOCdevkit/VOC2012/JPEGImages/2010_000564.jpg a man and a woman sitting next to each other.
+VOCdevkit/VOC2012/JPEGImages/2010_000604.jpg two red cars parked in a field of grass.
+VOCdevkit/VOC2012/JPEGImages/2010_000645.jpg a man standing under a green sign at an airport.
+VOCdevkit/VOC2012/JPEGImages/2010_000711.jpg a car parked on the street at night.
+VOCdevkit/VOC2012/JPEGImages/2010_000722.jpg two men riding in an old car on a road.
+VOCdevkit/VOC2012/JPEGImages/2010_000723.jpg a car on display at a car show.
+VOCdevkit/VOC2012/JPEGImages/2010_000738.jpg a woman sitting in an office chair holding a ball.
+VOCdevkit/VOC2012/JPEGImages/2010_000744.jpg a man standing next to a motorcycle with a helmet on it.
+VOCdevkit/VOC2012/JPEGImages/2010_000754.jpg a dining room with a wooden table and a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2010_000765.jpg a bunch of pineapples are lined up in front of a chair.
+VOCdevkit/VOC2012/JPEGImages/2010_000797.jpg a group of buses parked on the side of a road.
+VOCdevkit/VOC2012/JPEGImages/2010_000805.jpg a pug dog sitting next to a bottle of beer.
+VOCdevkit/VOC2012/JPEGImages/2010_000871.jpg a cactus in a flower pot in a garden.
+VOCdevkit/VOC2012/JPEGImages/2010_000891.jpg a woman in a hospital bed feeding a baby.
+VOCdevkit/VOC2012/JPEGImages/2010_000912.jpg a man and a woman sitting on a couch.
+VOCdevkit/VOC2012/JPEGImages/2010_000915.jpg a woman sitting at a table in a room with a coke box.
+VOCdevkit/VOC2012/JPEGImages/2010_000922.jpg a man sitting on top of a couch outside.
+VOCdevkit/VOC2012/JPEGImages/2010_000928.jpg a car parked on the side of a road.
+VOCdevkit/VOC2012/JPEGImages/2010_000945.jpg a man in a yellow shirt standing on top of a bus.
+VOCdevkit/VOC2012/JPEGImages/2010_001043.jpg a red car parked in front of a building.
+VOCdevkit/VOC2012/JPEGImages/2010_001113.jpg a group of people posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2010_001188.jpg a woman is holding a book up to her face.
+VOCdevkit/VOC2012/JPEGImages/2010_001189.jpg a living room with a black leather couch and chair.
+VOCdevkit/VOC2012/JPEGImages/2010_001216.jpg a small white dog sitting on the floor.
+VOCdevkit/VOC2012/JPEGImages/2010_001271.jpg a dining room with a wooden table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2010_001277.jpg a living room with a couch and a television.
+VOCdevkit/VOC2012/JPEGImages/2010_001343.jpg a dining room table with chairs and a chandelier.
+VOCdevkit/VOC2012/JPEGImages/2010_001394.jpg a black car is on display in a museum.
+VOCdevkit/VOC2012/JPEGImages/2010_001397.jpg a little boy wearing a blue shirt standing in front of trees.
+VOCdevkit/VOC2012/JPEGImages/2010_001418.jpg an orange and white cat being pet by a person.
+VOCdevkit/VOC2012/JPEGImages/2010_001431.jpg a man is standing next to a bike.
+VOCdevkit/VOC2012/JPEGImages/2010_001434.jpg a living room with a book shelf filled with books.
+VOCdevkit/VOC2012/JPEGImages/2010_001455.jpg a table and chairs on a patio in front of a mountain.
+VOCdevkit/VOC2012/JPEGImages/2010_001480.jpg a large pool table in a room with people.
+VOCdevkit/VOC2012/JPEGImages/2010_001511.jpg a living room with three large windows and a table and chairs.
+VOCdevkit/VOC2012/JPEGImages/2010_001528.jpg a man and a woman are holding wine glasses.
+VOCdevkit/VOC2012/JPEGImages/2010_001543.jpg a woman laying on a couch next to a dog.
+VOCdevkit/VOC2012/JPEGImages/2010_001547.jpg a living room with white furniture and a wooden floor.
+VOCdevkit/VOC2012/JPEGImages/2010_001579.jpg a man and a woman sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2010_001635.jpg a woman holding a small dog in a purse.
+VOCdevkit/VOC2012/JPEGImages/2010_001668.jpg a blue and yellow race car on a race track.
+VOCdevkit/VOC2012/JPEGImages/2010_001669.jpg a woman taking a picture in the rear view mirror of a car.
+VOCdevkit/VOC2012/JPEGImages/2010_001674.jpg a woman is sitting in a chair and smiling.
+VOCdevkit/VOC2012/JPEGImages/2010_001682.jpg a group of people sitting at a table with food.
+VOCdevkit/VOC2012/JPEGImages/2010_001692.jpg a man standing next to a black and white cow.
+VOCdevkit/VOC2012/JPEGImages/2010_001731.jpg a black metal folding chair with a black seat.
+VOCdevkit/VOC2012/JPEGImages/2010_001743.jpg a living room with a couch and a table.
+VOCdevkit/VOC2012/JPEGImages/2010_001756.jpg a woman holding a small dog in her arms.
+VOCdevkit/VOC2012/JPEGImages/2010_001767.jpg three men sitting on a couch on the street.
+VOCdevkit/VOC2012/JPEGImages/2010_001817.jpg a group of people posing for a picture.
+VOCdevkit/VOC2012/JPEGImages/2010_001846.jpg an older woman with glasses sitting at a table.
+VOCdevkit/VOC2012/JPEGImages/2010_001857.jpg a woman sitting on a chair in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_001892.jpg a young boy getting on a yellow school bus.
+VOCdevkit/VOC2012/JPEGImages/2010_001960.jpg a man laying on a couch with a baby.
+VOCdevkit/VOC2012/JPEGImages/2010_001966.jpg a car driving down a road with a street sign.
+VOCdevkit/VOC2012/JPEGImages/2010_001981.jpg a black car with teeth on the front of it.
+VOCdevkit/VOC2012/JPEGImages/2010_002006.jpg two people sitting at a table with plates of food.
+VOCdevkit/VOC2012/JPEGImages/2010_002044.jpg a small green car is parked on the grass.
+VOCdevkit/VOC2012/JPEGImages/2010_002046.jpg two cars parked on the side of the road in front of a bridge.
+VOCdevkit/VOC2012/JPEGImages/2010_002070.jpg two people sitting at a table eating food.
+VOCdevkit/VOC2012/JPEGImages/2010_002121.jpg a man in a shirt and tie sitting on a chair.
+VOCdevkit/VOC2012/JPEGImages/2010_002127.jpg a man and woman playing guitars on a stage.
+VOCdevkit/VOC2012/JPEGImages/2010_002154.jpg a woman standing in front of boxes of food.
+VOCdevkit/VOC2012/JPEGImages/2010_002172.jpg a black motorcycle on display at a motorcycle show.
+VOCdevkit/VOC2012/JPEGImages/2010_002185.jpg a woman standing next to a car in a field.
+VOCdevkit/VOC2012/JPEGImages/2010_002199.jpg two chairs and a table in front of a wall with graffiti.
+VOCdevkit/VOC2012/JPEGImages/2010_002227.jpg a black leather office chair next to a bed.
+VOCdevkit/VOC2012/JPEGImages/2010_002245.jpg a man is watching a screen in a room.
+VOCdevkit/VOC2012/JPEGImages/2010_002255.jpg a black cat laying on its back on a person.
+VOCdevkit/VOC2012/JPEGImages/2010_002287.jpg a small dog laying on a cha
