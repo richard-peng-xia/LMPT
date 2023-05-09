@@ -1,16 +1,21 @@
 # LMPT
 
-## Introduction
+<!-- 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maple-multi-modal-prompt-learning/prompt-engineering-on-imagenet)](https://paperswithcode.com/sota/long-tail-learning-on-coco-mlt?p=maple-multi-modal-prompt-learning)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maple-multi-modal-prompt-learning/prompt-engineering-on-sun397)](https://paperswithcode.com/sota/long-tail-learning-on-coco-mlt?p=maple-multi-modal-prompt-learning)
+-->
 
-This repository contains the code for our paper `LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition`. 
+## 👀Introduction
 
-LMPT explores the feasibility of prompting with text data for long-tailed multi-label visual recognition. we propose a unified framework for LTML, namely prompt tuning with class-specific embedding loss (LMPT), capturing the semantic feature interactions between categories by combining text and image modality data and improving the performance synchronously on both head and tail classes. Specifically, LMPT introduces the embedding loss function with class-aware soft margin and re-weighting to learn class-specific contexts with the benefit of textual descriptions (captions), which could help establish semantic relation ships between classes, especially between the head and tail classes. Notable improvements are observed compared to several visual, zero-shot and prompt tuning methods on two long-tailed multi-label benchmarks. For more details please see the paper.
+This repository contains the code for our paper `LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition`.[[arXiv]](https://arxiv.org/abs/2305.04536) 
 
-Created by [Peng Xia](https://peng-xia.site/), [Di Xu](), [Lie Ju](https://mmai.group/peoples/julie/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Jun Chen](https://junchen14.github.io/) and [Zongyuan Ge](https://zongyuange.github.io/).
+LMPT explores the feasibility of prompting with text data for long-tailed multi-label visual recognition. We propose a unified framework for LTML, namely prompt tuning with class-specific embedding loss (LMPT), capturing the semantic feature interactions between categories by combining text and image modality data and improving the performance synchronously on both head and tail classes. Specifically, LMPT introduces the embedding loss function with class-aware soft margin and re-weighting to learn class-specific contexts with the benefit of textual descriptions (captions), which could help establish semantic relation ships between classes, especially between the head and tail classes. Notable improvements are observed compared to several visual, zero-shot and prompt tuning methods on two long-tailed multi-label benchmarks. For more details please see the [paper](https://arxiv.org/pdf/2305.04536).
+
+Created by [Peng Xia](https://peng-xia.site/), [Di Xu](https://scholar.google.com/citations?user=218NmBMAAAAJ), [Lie Ju](https://mmai.group/peoples/julie/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Jun Chen](https://junchen14.github.io/) and [Zongyuan Ge](https://zongyuange.github.io/).
 
 ![alt text](./framework.png)
 
-## Requirements
+## 💡Requirements
 
 ### Environment
 
@@ -34,9 +39,9 @@ The code has been tested with PyTorch 1.13 and CUDA 11.6.
 pip install -r requirements.txt
 ```
 
-## Dataset
+## ⏳Dataset
 
-To evaluate/train our LMPT network, you will need to download the required datasets. Image paths, labels and captions of each dataset can be found [here](https://github.com/Richard88888/LMPT/data).
+To evaluate/train our LMPT network, you will need to download the required datasets. Image paths, labels and captions of each dataset can be found [here](https://github.com/Richard-peng-xia/LMPT/data).
 
 * [COCO-LT](https://github.com/wutong16/DistributionBalancedLoss/tree/master/appendix/coco)
 
@@ -81,7 +86,7 @@ To evaluate/train our LMPT network, you will need to download the required datas
         ├── class_freq.pkl
 ```
 
-## Usage
+## 📦Usage
 
 ### Train
 
@@ -146,14 +151,23 @@ CUDA_VISIBLE_DEVICES=0 python finetune_clip/fc.py \
 #--from scratch
 ```
 
-## Acknowledgements
+## 🙏Acknowledgements
 
 We use code from [CoOp](https://github.com/KaiyangZhou/CoOp) and [CLIP](https://github.com/openai/CLIP). We thank the authors for releasing their code.
 
-## Contact
+## 📧Contact
 
 If you have any questions, please create an issue on this repository or contact at [richard.peng.xia@gmail.com](mailto:richard.peng.xia@gmail.com) or [julie334600@gmail.com](mailto:julie334600@gmail.com).
 
-## Citing
+## 📝Citing
 
 If you find this code useful, please consider to cite our work.
+
+```
+@article{xia2023lmpt,
+  title={LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition},
+  author={Xia, Peng and Xu, Di and Ju, Lie and Hu, Ming and Chen, Jun and Ge, Zongyuan},
+  journal={arXiv preprint arXiv:2305.04536},
+  year={2023}
+}
+```
