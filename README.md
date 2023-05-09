@@ -1,9 +1,6 @@
 # LMPT
 
-<!-- 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maple-multi-modal-prompt-learning/prompt-engineering-on-imagenet)](https://paperswithcode.com/sota/long-tail-learning-on-coco-mlt?p=maple-multi-modal-prompt-learning)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maple-multi-modal-prompt-learning/prompt-engineering-on-sun397)](https://paperswithcode.com/sota/long-tail-learning-on-coco-mlt?p=maple-multi-modal-prompt-learning)
--->
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lmpt-prompt-tuning-with-class-specific/long-tail-learning-on-coco-mlt)](https://paperswithcode.com/sota/long-tail-learning-on-coco-mlt?p=lmpt-prompt-tuning-with-class-specific)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lmpt-prompt-tuning-with-class-specific/long-tail-learning-on-voc-mlt)](https://paperswithcode.com/sota/long-tail-learning-on-voc-mlt?p=lmpt-prompt-tuning-with-class-specific)
 
 ## 👀Introduction
 
