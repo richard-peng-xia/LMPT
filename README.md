@@ -2,6 +2,14 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lmpt-prompt-tuning-with-class-specific/long-tail-learning-on-coco-mlt)](https://paperswithcode.com/sota/long-tail-learning-on-coco-mlt?p=lmpt-prompt-tuning-with-class-specific)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lmpt-prompt-tuning-with-class-specific/long-tail-learning-on-voc-mlt)](https://paperswithcode.com/sota/long-tail-learning-on-voc-mlt?p=lmpt-prompt-tuning-with-class-specific)
 
+## 🚀Updates
+
+- [**Sep 4, 2023**] Added the [code](https://github.com/richard-peng-xia/LMPT/blob/main/image-caption.py) for generating captions of images by a pre-trained image-captioning model.
+
+- [**May 16, 2023**] Uploaded the label-annotation files of the two datasets.
+
+- [**May 8, 2023**] We released our codes and datasets, including the generated image-caption files.
+
 ## 👀Introduction
 
 This repository contains the code for our paper `LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition`.[[arXiv]](https://arxiv.org/abs/2305.04536) 
