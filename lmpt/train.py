@@ -207,7 +207,7 @@ def main(args):
                 loss_1 = loss_function(outputs, labels)
 
                 sfm = nn.Softmax(dim=0)
-                class_weights = sfm(torch.from_numpy(np.asarray(mmcv.load(freq_file)['neg_class_freq'])).to(torch.float32).cuda())
+                class_weights = sfm(torch.from_numpy(np.asarray(mmcv.load(freq_file)['class_freq'])).to(torch.float32).cuda())
 
                 hinge_loss = SoftMarginHingeEmbeddingLoss(margin=0.2, class_counts=class_weights)
 
