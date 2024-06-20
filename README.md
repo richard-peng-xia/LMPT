@@ -4,10 +4,9 @@
 
 ## 🚀Updates
 
+- [**Jun 19, 2024**] LMPT was accepted by ACL 2024 Workshop on Advances in Language and Vision Research (ALVR).
 - [**Sep 4, 2023**] Added the [code](https://github.com/richard-peng-xia/LMPT/blob/main/image-caption.py) for generating captions of images by a pre-trained image-captioning model.
-
 - [**May 16, 2023**] Uploaded the label-annotation files of the two datasets.
-
 - [**May 8, 2023**] We released our codes and datasets, including the generated image-caption files.
 
 ## 👀Introduction
@@ -16,7 +15,7 @@ This repository contains the code for our paper `LMPT: Prompt Tuning with Class-
 
 LMPT explores the feasibility of prompting with text data for long-tailed multi-label visual recognition. We propose a unified framework for LTML, namely prompt tuning with class-specific embedding loss (LMPT), capturing the semantic feature interactions between categories by combining text and image modality data and improving the performance synchronously on both head and tail classes. Specifically, LMPT introduces the embedding loss function with class-aware soft margin and re-weighting to learn class-specific contexts with the benefit of textual descriptions (captions), which could help establish semantic relation ships between classes, especially between the head and tail classes. Notable improvements are observed compared to several visual, zero-shot and prompt tuning methods on two long-tailed multi-label benchmarks. For more details please see the [paper](https://arxiv.org/pdf/2305.04536).
 
-Created by [Peng Xia](https://peng-xia.site/), [Di Xu](https://scholar.google.com/citations?user=218NmBMAAAAJ), [Lie Ju](https://mmai.group/peoples/julie/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Jun Chen](https://junchen14.github.io/) and [Zongyuan Ge](https://zongyuange.github.io/).
+Created by [Peng Xia](https://peng-xia.site/), [Di Xu](https://scholar.google.com/citations?user=218NmBMAAAAJ), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Lie Ju](https://mmai.group/peoples/julie/), and [Zongyuan Ge](https://zongyuange.github.io/).
 
 ![alt text](./framework.png)
 
