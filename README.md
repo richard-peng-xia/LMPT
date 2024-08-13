@@ -11,11 +11,11 @@
 
 ## 👀Introduction
 
-This repository contains the code for our paper `LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition`.[[arXiv]](https://arxiv.org/abs/2305.04536) 
+This repository contains the code for our paper `LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition`.[[arXiv]](https://arxiv.org/abs/2305.04536) [[paper]](https://aclanthology.org/2024.alvr-1.3.pdf)
 
-LMPT explores the feasibility of prompting with text data for long-tailed multi-label visual recognition. We propose a unified framework for LTML, namely prompt tuning with class-specific embedding loss (LMPT), capturing the semantic feature interactions between categories by combining text and image modality data and improving the performance synchronously on both head and tail classes. Specifically, LMPT introduces the embedding loss function with class-aware soft margin and re-weighting to learn class-specific contexts with the benefit of textual descriptions (captions), which could help establish semantic relation ships between classes, especially between the head and tail classes. Notable improvements are observed compared to several visual, zero-shot and prompt tuning methods on two long-tailed multi-label benchmarks. For more details please see the [paper](https://arxiv.org/pdf/2305.04536).
+LMPT explores the feasibility of prompting with text data for long-tailed multi-label visual recognition. We propose a unified framework for LTML, namely prompt tuning with class-specific embedding loss (LMPT), capturing the semantic feature interactions between categories by combining text and image modality data and improving the performance synchronously on both head and tail classes. Specifically, LMPT introduces the embedding loss function with class-aware soft margin and re-weighting to learn class-specific contexts with the benefit of textual descriptions (captions), which could help establish semantic relation ships between classes, especially between the head and tail classes. Notable improvements are observed compared to several visual, zero-shot and prompt tuning methods on two long-tailed multi-label benchmarks. For more details please see the [paper](https://aclanthology.org/2024.alvr-1.3.pdf).
 
-Created by [Peng Xia](https://peng-xia.site/), [Di Xu](https://scholar.google.com/citations?user=218NmBMAAAAJ), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Lie Ju](https://mmai.group/peoples/julie/), and [Zongyuan Ge](https://zongyuange.github.io/).
+Created by [Peng Xia](https://richard-peng-xia.github.io/), [Di Xu](https://scholar.google.com/citations?user=218NmBMAAAAJ), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Lie Ju](https://mmai.group/peoples/julie/), and [Zongyuan Ge](https://zongyuange.github.io/).
 
 ![alt text](./framework.png)
 
@@ -168,10 +168,14 @@ If you have any questions, please create an issue on this repository or contact 
 If you find this code useful, please consider to cite our work.
 
 ```
-@article{xia2023lmpt,
-  title={LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition},
-  author={Xia, Peng and Xu, Di and Ju, Lie and Hu, Ming and Chen, Jun and Ge, Zongyuan},
-  journal={arXiv preprint arXiv:2305.04536},
-  year={2023}
+@inproceedings{xia2024lmpt,
+    title = {LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-Tailed Multi-Label Visual Recognition},
+    author= {Xia, Peng and Xu, Di and Hu, Ming and Ju, Lie and Ge, Zongyuan},
+    booktitle = {Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR)},
+    year = {2024},
+    address = {Bangkok, Thailand},
+    publisher = {Association for Computational Linguistics},
+    pages = {26--36}
 }
+
 ```
