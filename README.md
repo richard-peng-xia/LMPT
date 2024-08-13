@@ -169,13 +169,11 @@ If you find this code useful, please consider to cite our work.
 
 ```
 @inproceedings{xia2024lmpt,
-    title = {LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-Tailed Multi-Label Visual Recognition},
-    author= {Xia, Peng and Xu, Di and Hu, Ming and Ju, Lie and Ge, Zongyuan},
-    booktitle = {Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR)},
-    year = {2024},
-    address = {Bangkok, Thailand},
-    publisher = {Association for Computational Linguistics},
-    pages = {26--36}
+  title = {LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-Tailed Multi-Label Visual Recognition},
+  author= {Xia, Peng and Xu, Di and Hu, Ming and Ju, Lie and Ge, Zongyuan},
+  booktitle={Proceedings of the 3rd Workshop on Advances in Language and Vision Research (ALVR)},
+  pages={26--36},
+  year={2024}
 }
 
 ```
